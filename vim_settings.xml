@@ -1,0 +1,223 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/File Header.txt.ft" timestamp="1542077591966">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/GetHtmlInform.java" timestamp="1542188313671">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="70" column="12" />
+        <mark key="." line="70" column="12" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/DemoApplication.java" timestamp="1542182957360">
+        <mark key="[" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/SpringTaskETest.java" timestamp="1542190606698">
+        <mark key="[" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/config/MysqlJdbcConfig.java" timestamp="1542193457803">
+        <mark key="[" line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/DruidStatViewServlet.java" timestamp="1541996721898">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/HDFSFIleTools.java" timestamp="1542182249254">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="87" column="8" />
+        <mark key="^" line="159" column="0" />
+        <mark key="." line="87" column="8" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/HiveJdbcControllerTest.java" timestamp="1542190593563">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/FileTools.java" timestamp="1542179040651">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/HiveJdbcClien.java" timestamp="1542076719493">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1542077555675">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/pom.xml" timestamp="1542187443684">
+        <mark key="[" line="94" column="21" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1542077587744">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/CrawlerController.java" timestamp="1542194303382">
+        <mark key="[" line="26" column="21" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/resources/application.properties" timestamp="1542193524337">
+        <mark key="y" line="54" column="18" />
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/resources/application-location.properties" timestamp="1542193589254" />
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/HiveJdbcControllerTest1.java" timestamp="1542078475861">
+        <mark key="[" line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/config/SpringTaskExecutor.java" timestamp="1542193391420">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1541990918779">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/resources/application-lab.properties" timestamp="1542193594703">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/demo/src/main/resources/application.properties" timestamp="1542187343778">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/config/HiveJdbcConfig.java" timestamp="1542193453085">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/JuZiSelectController.java" timestamp="1542193689852">
+        <mark key="[" line="105" column="39" />
+        <mark key="]" line="105" column="39" />
+        <mark key="^" line="318" column="17" />
+        <mark key="." line="105" column="39" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/config/DruidStatViewServlet.java" timestamp="1542188530994">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/controller/HIveTest.java" timestamp="1541937739462">
+        <mark key="[" line="30" column="91" />
+        <mark key="]" line="30" column="91" />
+        <mark key="." line="30" column="91" />
+      </file>
+      <file name="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/hdfsTools.java" timestamp="1542091889909">
+        <mark key="[" line="75" column="33" />
+        <mark key="]" line="75" column="33" />
+        <mark key="." line="75" column="33" />
+      </file>
+      <file name="/fragment.java" timestamp="1542093160493">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/controller/GoodsInformController.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/DemoApplication.java" />
+      <jump line="70" column="31" filename="$USER_HOME$/Desktop/demo/pom.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/dao/GoodsInformDao.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/dao/GoodsInformDao.xml" />
+      <jump line="45" column="0" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/dao/GoodsInformDao.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/dao/GoodsInformDao.xml" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/dao/GoodsInformDao.xml" />
+      <jump line="24" column="8" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/dao/GoodsInformDao.xml" />
+      <jump line="10" column="8" filename="$USER_HOME$/Desktop/demo/src/main/java/com/example/demo/dao/GoodsInformDao.xml" />
+      <jump line="15" column="45" filename="$USER_HOME$/Desktop/WordMapper/src/main/java/WordMapper.java" />
+      <jump line="7" column="10" filename="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/tools/webMagic.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/tools/htmldeal.java" />
+      <jump line="17" column="24" filename="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/controller/JuZiSelectController.java" />
+      <jump line="36" column="38" filename="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/controller/JuZiSelectController.java" />
+      <jump line="85" column="24" filename="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/controller/JuZiSelectController.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/controller/JuZiSelectController.java" />
+      <jump line="41" column="53" filename="$USER_HOME$/Desktop/juzi/src/main/java/com/tanzehua/demo/controller/JuZiSelectController.java" />
+      <jump line="23" column="35" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/DemoApplication.java" />
+      <jump line="171" column="72" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/JuZiSelectController.java" />
+      <jump line="185" column="69" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/JuZiSelectController.java" />
+      <jump line="186" column="48" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/JuZiSelectController.java" />
+      <jump line="187" column="60" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/JuZiSelectController.java" />
+      <jump line="20" column="7" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/controller/HiveJdbcClien.java" />
+      <jump line="99" column="46" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/HDFSFileTools.java" />
+      <jump line="106" column="30" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/HDFSFileTools.java" />
+      <jump line="28" column="22" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/HDFSFileTools.java" />
+      <jump line="9" column="41" filename="$USER_HOME$/java/crawler_data_integration/src/main/resources/application-lab.properties" />
+      <jump line="75" column="27" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/HDFSFIleTools.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/java/crawler_data_integration/src/main/java/cn/edu/bupt/crawler_data_integration/tools/HDFSFIleTools.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx4bWxcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>d void reduce(Text w</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSmRiY1RlbXBsYXRlIGhpdmVKZGJjVGVtcGxhdGU7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>spring.custom.datasource.db2.username=appuser2
+---------------------
+作者：丹奈 
+来源：CSDN
+原文：https://blog.csdn.net/u011126891/article/details/79014741 
+版权声明：本文为博主原创文章，转载请附上博文链接！</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyDmlbDmja7lupPphY3nva4gIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiPlrp7pqozlrqRqZGJj5Zyw5Z2ACnNwcmluZy5kYXRhc291cmNlLnVybD1qZGJjOmhpdmUyOi8vMTAuMTA4LjIxMS4xMzA6MjE4MS87c2VydmljZURpc2NvdmVyeU1vZGU9em9vS2VlcGVyO3pvb0tlZXBlck5hbWVzcGFjZT1oaXZlc2VydmVyMgpzcHJpbmcuZGF0YXNvdXJjZS51c2VybmFtZT1oZGZzCnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPWhkZnMKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIOmFjee9riAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text>//        try {
+//            fileSystem.close();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICDCoCDCoCDCoCDCoCA=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgIOS9nOiAhe+8muS/rum5j+adjgogICAgICAgIOadpea6kO+8mkNTRE4KICAgICAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvbWFwX2xpeGl1cGVuZy9hcnRpY2xlL2RldGFpbHMvMzIxNTMyNTEgCiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IC8v6I635Y+W5YWs5Y+4SlNPTgogICAgICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBHZXRIdG1sSW5mb3JtLkdldEh0dHBSZXF1ZXN0KHVybFN0cik7CiAgICAgICAgICAgICAgICAgICAgICAgIC8v5aSE55CGSlNPTuaVsOaNrgogICAgICAgICAgICAgICAgICAgICAgICBqc29uT2JqZWN0ID0gZGVhbEp1emlDb21wYW55SW5mb3JtSnNvbihqc29uT2JqZWN0LCBzdHJBcnJheVtpXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIC8v5aSE55CG5ZCOSlNPTuaPkuWFpeWvueixoQogICAgICAgICAgICAgICAgICAgICAgICBqc29uT2JqZWN0QWxsLnB1dChzdHJBcnJheVtpXSwganNvbk9iamVjdCk7</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg5L2c6ICF77yacGVuZ2p1bmxlZQogICAg5p2l5rqQ77yaQ1NETgogICAg5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BlbmdqdW5sZWUvYXJ0aWNsZS9kZXRhaWxzLzgxODM4NDgwIAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDx4bWxcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx4bWxcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxkYW9cPg==</entry>
+        <entry encoding="base64">XDx4bWxcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

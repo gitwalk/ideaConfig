@@ -1,0 +1,5 @@
+<application>
+  <component name="ApiDocSettings">
+    <option name="depth" value="5" />
+  </component>
+</application>
