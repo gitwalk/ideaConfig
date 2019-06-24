@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta back_space" />
   </action>
@@ -9,5 +12,8 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl i" second-keystroke="ctrl f" />
   </action>
 </keymap>
