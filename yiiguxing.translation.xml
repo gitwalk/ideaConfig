@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Zone" />
       <item value="Factor" />
       <item value="Default Bean Validation group. * &lt;p&gt; * Unless a list of groups is explicitly defined: * &lt;ul&gt; * &lt;li&gt;constraints belong to the {@code Default} group&lt;/li&gt; * &lt;li&gt;validation applies to the {@code Default} group&lt;/li&gt; * &lt;/ul&gt; * Most structural constraints should belong to the default group. * * @author Emmanuel Bernard" />
       <item value="Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'" />
@@ -50,12 +51,11 @@
       <item value="Captcha" />
       <item value="Column 'name' in field list is ambiguous" />
       <item value="Asset" />
-      <item value="Column 'id' in where clause is ambiguous&#10;; Column 'id' in where clause is ambiguous;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
       </map>
     </option>
   </component>
