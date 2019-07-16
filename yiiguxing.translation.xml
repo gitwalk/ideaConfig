@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applies distortion by adding shadow to the text and also two noises. * * @param baseImage the base image * @return the distorted image" />
       <item value="Single Partition" />
       <item value="Zone" />
       <item value="Factor" />
@@ -50,7 +51,6 @@
       <item value="Antialiasing hint value -- rendering is done without antialiasing. * @see #KEY_ANTIALIASING" />
       <item value="Constructs a new object with the specified key/value pair" />
       <item value="Captcha" />
-      <item value="Column 'name' in field list is ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
