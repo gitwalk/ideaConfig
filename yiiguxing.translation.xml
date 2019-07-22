@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get User Distributions" />
       <item value="Exception thrown when attempting to execute an authorization action when a successful * authentication hasn't yet occurred. * * &lt;p&gt;Authorizations can only be performed after a successful * authentication because authorization data (roles, permissions, etc) must always be associated * with a known identity. Such a known identity can only be obtained upon a successful log-in. * * @since 0.1" />
       <item value="Applies distortion by adding shadow to the text and also two noises. * * @param baseImage the base image * @return the distorted image" />
       <item value="Single Partition" />
@@ -50,12 +51,11 @@
       <item value="Disposes of this graphics context and releases * any system resources that it is using." />
       <item value="* Color rendering hint value -- perform the color conversion * calculations with the highest accuracy and visual quality. * @see #KEY_COLOR_RENDERING" />
       <item value="Antialiasing hint value -- rendering is done without antialiasing. * @see #KEY_ANTIALIASING" />
-      <item value="Constructs a new object with the specified key/value pair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
       </map>
     </option>
   </component>
