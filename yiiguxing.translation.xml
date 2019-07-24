@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEPARTMENT" />
       <item value="/** * Asserts this Subject has the specified role by returning quietly if they do or throwing an * {@link org.apache.shiro.authz.AuthorizationException} if they do not. * * @param roleIdentifier the application-specific role identifier (usually a role id or role name ). * @throws org.apache.shiro.authz.AuthorizationException * if this Subject does not have the role. */" />
       <item value="/** * Returns {@code true} if this Subject has the specified role, {@code false} otherwise. * * @param roleIdentifier the application-specific role identifier (usually a role id or role name). * @return {@code true} if this Subject has the specified role, {@code false} otherwise. */" />
       <item value="get User Distributions" />
@@ -50,12 +51,11 @@
       <item value="Returns a &lt;code&gt;BufferedImage&lt;/code&gt; that supports the specified * transparency and has a data layout and color model * compatible with this &lt;code&gt;GraphicsConfiguration&lt;/code&gt;. This * method has nothing to do with memory-mapping * a device. The returned &lt;code&gt;BufferedImage&lt;/code&gt; has a layout and * color model that can be optimally blitted to a device * with this &lt;code&gt;GraphicsConfiguration&lt;/code&gt;." />
       <item value="* Graphics objects which are provided as arguments to the * &lt;code&gt;paint&lt;/code&gt; and &lt;code&gt;update&lt;/code&gt; methods * of components are automatically released by the system when * those methods return. For efficiency, programmers should * call &lt;code&gt;dispose&lt;/code&gt; when finished using * a &lt;code&gt;Graphics&lt;/code&gt; object only if it was created * directly from a component or another &lt;code&gt;Graphics&lt;/code&gt;" />
       <item value="* When a Java program runs, a large number of &lt;code&gt;Graphics&lt;/code&gt; * objects can be created within a short time frame. * Although the finalization process of the garbage collector * also disposes of the same system resources, it is preferable * to manually free the associated resources by calling this * method rather than to rely on a finalization process which * may not run to completion for a long period of time." />
-      <item value="Disposes of this graphics context and releases * any system resources that it is using." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
       </map>
     </option>
   </component>
