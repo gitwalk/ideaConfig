@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -23,6 +23,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Translate">
+        <Item>
+          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
+          <ShortCut>'⌃⌘U'</ShortCut>
+          <Description>Translate</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
