@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Adapter no-op implementation - does nothing and returns immediately. * * @param session the session that has expired." />
+      <item value="/** * Adapter no-op implementation - does nothing and returns immediately. * * @param session the session that has stopped." />
       <item value="Simple adapter implementation of the {@link SessionListener} interface, effectively providing * no-op implementations of all methods. *" />
       <item value="* Retrieves the Session object from the underlying EIS identified by &lt;tt&gt;sessionId&lt;/tt&gt; by delegating to * the {@link #doReadSession(java.io.Serializable)} method. If {@code null} is returned from that method, an * {@link UnknownSessionException} will be thrown. * * @param sessionId the id of the session to retrieve from the EIS. * @return the session identified by &lt;tt&gt;sessionId&lt;/tt&gt; in the EIS. * @throws UnknownSessionException if the id specified does not correspond to any session in the EIS. */" />
       <item value="/** * Get the value of {@code key}. * * @param key must not be {@literal null}. * @return {@literal null} when used in pipeline / transaction. * @see &lt;a href=&quot;http://redis.io/commands/get&quot;&gt;Redis Documentation: GET&lt;/a&gt; */" />
@@ -49,13 +51,11 @@
       <item value="the name of the attribute" />
       <item value="/** * The class {@code Exception} and its subclasses are a form of * {@code Throwable} that indicates conditions that a reasonable * application might want to catch. * * &lt;p&gt;The class {@code Exception} and any subclasses that are not also * subclasses of {@link RuntimeException} are &lt;em&gt;checked * exceptions&lt;/em&gt;. Checked exceptions need to be declared in a * method or constructor's {@code throws} clause if they can be thrown * by the execution of the method or constructor and propagate outside * the method or constructor boundary. * * @author Frank Yellin * @see java.lang.Error * @jls 11.2 Compile-Time Checking of Exceptions * @since JDK1.0" />
       <item value="* Returns a &lt;code&gt;DirectColorModel&lt;/code&gt; that describes the default * format for integer RGB values used in many of the methods in the * AWT image interfaces for the convenience of the programmer. * The color space is the default {@link ColorSpace}, sRGB. * The format for the RGB values is an integer with 8 bits * each of alpha, red, green, and blue color components ordered * correspondingly from the most significant byte to the least * significant byte, as in: 0xAARRGGBB. Color components are * not premultiplied by the alpha component. This format does not * necessarily represent the native or the most efficient * &lt;code&gt;ColorModel&lt;/code&gt; for a particular device or for all images. * It is merely used as a common color model format. * @return a &lt;code&gt;DirectColorModel&lt;/code&gt;object describing default * RGB values. */" />
-      <item value="* Represents image data that contains or might contain arbitrary * alpha values between and including 0.0 and 1.0." />
-      <item value="Represents image data that is guaranteed to be completely opaque, * meaning that all pixels have an alpha value of 1.0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
       </map>
     </option>
   </component>
