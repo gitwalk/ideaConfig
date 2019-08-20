@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicates if this part is the leftmost in the range" />
       <item value="/** * Sorts the specified range of the array using the given * workspace array slice if possible for merging * * @param a the array to be sorted * @param left the index of the first element, inclusive, to be sorted * @param right the index of the last element, inclusive, to be sorted * @param work a workspace array (slice) * @param workBase origin of usable space in work array * @param workLen usable size of work array */" />
       <item value="* Adapter no-op implementation - does nothing and returns immediately. * * @param session the session that has expired." />
       <item value="/** * Adapter no-op implementation - does nothing and returns immediately. * * @param session the session that has stopped." />
@@ -50,7 +51,6 @@
       <item value="* Flushes this output stream and forces any buffered output bytes * to be written out. The general contract of &lt;code&gt;flush&lt;/code&gt; is * that calling it is an indication that, if any bytes previously * written have been buffered by the implementation of the output * stream, such bytes should immediately be written to their * intended destination. * &lt;p&gt; * If the intended destination of this stream is an abstraction provided by * the underlying operating system, for example a file, then flushing the * stream guarantees only that bytes previously written to the stream are * passed to the operating system for writing; it does not guarantee that * they are actually written to a physical device such as a disk drive. * &lt;p&gt;" />
       <item value="Set the value for the scoped attribute of the given name, * replacing an existing value (if any)." />
       <item value="the name of the attribute" />
-      <item value="/** * The class {@code Exception} and its subclasses are a form of * {@code Throwable} that indicates conditions that a reasonable * application might want to catch. * * &lt;p&gt;The class {@code Exception} and any subclasses that are not also * subclasses of {@link RuntimeException} are &lt;em&gt;checked * exceptions&lt;/em&gt;. Checked exceptions need to be declared in a * method or constructor's {@code throws} clause if they can be thrown * by the execution of the method or constructor and propagate outside * the method or constructor boundary. * * @author Frank Yellin * @see java.lang.Error * @jls 11.2 Compile-Time Checking of Exceptions * @since JDK1.0" />
     </histories>
     <option name="languageScores">
       <map>
