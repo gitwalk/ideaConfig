@@ -4,7 +4,11 @@
       <Profile>
         <option name="generateWithIfTest" value="true" />
         <option name="mybatisGeneratorMapperSuffix" value="Dao" />
-        <option name="valid" value="true" />
+        <option name="userMacSet">
+          <set>
+            <option value="88-E9-FE-87-B3-25" />
+          </set>
+        </option>
       </Profile>
     </option>
   </component>
