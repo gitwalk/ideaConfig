@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mapped Statements collection does not contain value for com.bupt.cad.metadataserver.dao.DictionaryDao.findByDictCode" />
       <item value="The Web UI provides navigation between the bits of information and the ability to annotate the collected data with comments, ownership and more. The example below is for collecting Hive metadata collected from the Cloudera Hadoop VM Wherehows comes in three operational components: - [Backend service](../wherehows-backend/README.md) - **A web-ui service** - Database schema for MySQL" />
       <item value="return all declared fields of the class, exclude inherited fields" />
       <item value="stagging table for dataset" />
@@ -50,7 +51,6 @@
       <item value="/** * Class constructor. * @param annotationNotRequired if &quot;true&quot;, non-simple method arguments and * return values are considered model attributes with or without a * {@code @ModelAttribute} annotation */" />
       <item value="/** * Resolve the argument from the model or if not found instantiate it with * its default if it is available. The model attribute is then populated * with request values via data binding and optionally validated * if {@code @java.validation.Valid} is present on the argument. * @throws BindException if data binding and validation result in an error * and the next method parameter is not of type {@link Errors} * @throws Exception if WebDataBinder initialization fails */" />
       <item value="java.lang.IllegalStateException: An Errors/BindingResult argument is expected to be declared immediately after the model attribut" />
-      <item value="Formal parameter declaration" />
     </histories>
     <option name="languageScores">
       <map>
