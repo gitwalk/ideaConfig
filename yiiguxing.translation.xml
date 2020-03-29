@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Used to dereference a {@link FactoryBean} instance and distinguish it from * beans &lt;i&gt;created&lt;/i&gt; by the FactoryBean. For example, if the bean named * {@code myJndiObject} is a FactoryBean, getting {@code &amp;myJndiObject} * will return the factory, not the instance returned by the factory. */" />
       <item value="Mapped Statements collection does not contain value for com.bupt.cad.metadataserver.dao.DictionaryDao.findByDictCode" />
       <item value="The Web UI provides navigation between the bits of information and the ability to annotate the collected data with comments, ownership and more. The example below is for collecting Hive metadata collected from the Cloudera Hadoop VM Wherehows comes in three operational components: - [Backend service](../wherehows-backend/README.md) - **A web-ui service** - Database schema for MySQL" />
       <item value="return all declared fields of the class, exclude inherited fields" />
@@ -50,7 +51,6 @@
       <item value="* Thrown when binding errors are considered fatal. Implements the * {@link BindingResult} interface (and its super-interface {@link Errors}) * to allow for the direct analysis of binding errors. * * &lt;p&gt;As of Spring 2.0, this is a special-purpose class. Normally, * application code will work with the {@link BindingResult} interface, * or with a {@link DataBinder} that in turn exposes a BindingResult via * {@link org.springframework.validation.DataBinder#getBindingResult()}. * * @author Rod Johnson * @author Juergen Hoeller * @author Rob Harrop * @see BindingResult * @see DataBinder#getBindingResult() * @see DataBinder#close()" />
       <item value="/** * Class constructor. * @param annotationNotRequired if &quot;true&quot;, non-simple method arguments and * return values are considered model attributes with or without a * {@code @ModelAttribute} annotation */" />
       <item value="/** * Resolve the argument from the model or if not found instantiate it with * its default if it is available. The model attribute is then populated * with request values via data binding and optionally validated * if {@code @java.validation.Valid} is present on the argument. * @throws BindException if data binding and validation result in an error * and the next method parameter is not of type {@link Errors} * @throws Exception if WebDataBinder initialization fails */" />
-      <item value="java.lang.IllegalStateException: An Errors/BindingResult argument is expected to be declared immediately after the model attribut" />
     </histories>
     <option name="languageScores">
       <map>
