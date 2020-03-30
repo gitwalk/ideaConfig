@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initialization" />
       <item value="1. `spring-core` and `spring-oxm` should be pre-compiled due to repackaged dependencies. See `*RepackJar` tasks in the build and https://youtrack.jetbrains.com/issue/IDEA-160605). 2. `spring-aspects` does not compile due to references to aspect types unknown to IntelliJ IDEA. See https://youtrack.jetbrains.com/issue/IDEA-64446 for details. In the meantime, the 'spring-aspects' can be excluded from the project to avoid compilation errors. 3. While JUnit tests pass from the command line with Gradle, some may fail when run from IntelliJ IDEA. Resolving this is a work in progress. If attempting to run all JUnit tests from within IntelliJ IDEA, you will likely need to set the following VM options to avoid out of memory errors: -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m 4. If you invoke &quot;Rebuild Project&quot; in the IDE, you'll have to generate some test resources of the `spring-oxm` module again (`./gradlew :spring-oxm:compileTestJava`)" />
       <item value="Navigate" />
       <item value="When prompted exclude the `spring-aspects` module (or after the import via File-&gt; Project Structure -&gt; Modules) 4. Code away" />
@@ -50,12 +51,11 @@
       <item value="The pointcut expression where to bind the advice" />
       <item value="** * Specify one or more validation groups to apply to the validation step * kicked off by this annotation. * &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares * for the sole purpose of using them as type-safe group arguments, as implemented in * {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. * &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may * support class arguments in other ways as well. */" />
       <item value="* Construct a new ReflectiveMethodInvocation with the given arguments. * @param proxy the proxy object that the invocation was made on * @param target the target object to invoke * @param method the method to invoke * @param arguments the arguments to invoke the method with * @param targetClass the target class, for MethodMatcher invocations * @param interceptorsAndDynamicMethodMatchers interceptors that should be applied, * along with any InterceptorAndDynamicMethodMatchers that need evaluation at runtime. * MethodMatchers included in this struct must already have been found to have matched * as far as was possibly statically. Passing an array might be about 10% faster, * but would complicate the code. And it would work only for static pointcuts. */" />
-      <item value="* General purpose AOP callback. Used when the target is dynamic or when the * proxy is not frozen." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
       </map>
     </option>
   </component>
