@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subclasses" />
+      <item value="classLoader the class loader to create the proxy with" />
+      <item value="Create a new proxy according to the settings in this factory. * &lt;p&gt;Can be called repeatedly. Effect will vary if we've added * or removed interfaces. Can add and remove interceptors. * &lt;p&gt;Uses the given class loader (if necessary for proxy creation)." />
+      <item value="Uses the given class loader (if necessary for proxy creation)" />
+      <item value="Can add and remove interceptors" />
+      <item value="Effect will vary if we've added * or removed interfaces." />
+      <item value="Can be called repeatedly" />
       <item value="the cache key for metadata access" />
       <item value="the raw bean instance" />
       <item value="Wrap the given bean if necessary, i.e. if it is eligible for being proxied" />
@@ -44,18 +51,11 @@
       <item value="/** * Asserts this Subject has the specified role by returning quietly if they do or throwing an * {@link org.apache.shiro.authz.AuthorizationException} if they do not. * * @param roleIdentifier the application-specific role identifier (usually a role id or role name ). * @throws org.apache.shiro.authz.AuthorizationException * if this Subject does not have the role. */" />
       <item value="/** * Returns {@code true} if this Subject has the specified role, {@code false} otherwise. * * @param roleIdentifier the application-specific role identifier (usually a role id or role name). * @return {@code true} if this Subject has the specified role, {@code false} otherwise. */" />
       <item value="get User Distributions" />
-      <item value="Exception thrown when attempting to execute an authorization action when a successful * authentication hasn't yet occurred. * * &lt;p&gt;Authorizations can only be performed after a successful * authentication because authorization data (roles, permissions, etc) must always be associated * with a known identity. Such a known identity can only be obtained upon a successful log-in. * * @since 0.1" />
-      <item value="Applies distortion by adding shadow to the text and also two noises. * * @param baseImage the base image * @return the distorted image" />
-      <item value="Single Partition" />
-      <item value="Zone" />
-      <item value="Factor" />
-      <item value="Default Bean Validation group. * &lt;p&gt; * Unless a list of groups is explicitly defined: * &lt;ul&gt; * &lt;li&gt;constraints belong to the {@code Default} group&lt;/li&gt; * &lt;li&gt;validation applies to the {@code Default} group&lt;/li&gt; * &lt;/ul&gt; * Most structural constraints should belong to the default group. * * @author Emmanuel Bernard" />
-      <item value="Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
       </map>
     </option>
   </component>
