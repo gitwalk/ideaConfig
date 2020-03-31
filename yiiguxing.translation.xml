@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize Bean" />
+      <item value="Make sure bean class is actually resolved at this point" />
+      <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance" />
+      <item value="// Make sure bean class is actually resolved at this point, and // clone the bean definition in case of a dynamically resolved Class // which cannot be stored in the shared merged bean definition." />
+      <item value="Check if required type matches the type of the actual bean instance" />
+      <item value="While this may not be part of the regular factory bootstrap, it does otherwise work fine" />
+      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions" />
+      <item value="Instantiate all remaining (non-lazy-init) singletons" />
+      <item value="// Register a default embedded value resolver if no bean post-processor // (such as a PropertyPlaceholderConfigurer bean) registered any before: // at this point, primarily for resolution in annotation attribute values." />
+      <item value="Allows post-processing of the bean factory in context subclasses." />
+      <item value="Register bean processors that intercept bean creation" />
+      <item value="// Register BeanPostProcessorChecker that logs an info message when // a bean is created during BeanPostProcessor instantiation, i.e. when // a bean is not eligible for getting processed by all BeanPostProcessors." />
       <item value="separator" />
       <item value="Initialization" />
       <item value="1. `spring-core` and `spring-oxm` should be pre-compiled due to repackaged dependencies. See `*RepackJar` tasks in the build and https://youtrack.jetbrains.com/issue/IDEA-160605). 2. `spring-aspects` does not compile due to references to aspect types unknown to IntelliJ IDEA. See https://youtrack.jetbrains.com/issue/IDEA-64446 for details. In the meantime, the 'spring-aspects' can be excluded from the project to avoid compilation errors. 3. While JUnit tests pass from the command line with Gradle, some may fail when run from IntelliJ IDEA. Resolving this is a work in progress. If attempting to run all JUnit tests from within IntelliJ IDEA, you will likely need to set the following VM options to avoid out of memory errors: -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m 4. If you invoke &quot;Rebuild Project&quot; in the IDE, you'll have to generate some test resources of the `spring-oxm` module again (`./gradlew :spring-oxm:compileTestJava`)" />
@@ -39,23 +51,11 @@
       <item value="catalina.home" />
       <item value="cannot assign instance of java.lang.invoke.SerializedLambda to field org.apache.spark.api.java.JavaPairRDD$$anonfun$toScalaFunction$1.fun$1 of type org.apache.spark.api.java.function.Function in instance of org.apache.spark.api.java.JavaPairRDD$$anonfun$toScalaFunction$1" />
       <item value="Lost task 0.0 in stage 1.0 (TID 1, slave4.hadoop, executor 1): java.lang.ClassCastException: cannot assign instance of java.lang.invoke.SerializedLambda to field org.apache.spark.api.java.JavaPairRDD$$anonfun$toScalaFunction$1.fun$1 of type org.apache.spark.api.java.function.Function in instance of org.apache.spark.api.java.JavaPairRDD$$anonfun$toScalaFunction$1" />
-      <item value="Service 'sparkDriver' failed after 16 retries (on a random free port)! Consider explicitly setting the appropriate binding address for the service 'sparkDriver' (for example spark.driver.bindAddress for SparkDriver) to the correct binding address." />
-      <item value="Validates parameters and return values of methods and constructors. * Implementations of this interface must be thread-safe." />
-      <item value="Executable" />
-      <item value="/** * Returns the fully-qualified name of the declaring type. This is * equivalent to calling getDeclaringType().getName(), but caches * the result for greater efficiency. */" />
-      <item value="&lt;p&gt;Returns a &lt;code&gt;java.lang.Class&lt;/code&gt; object representing the class, * interface, or aspect that declared this member. For intra-member * declarations, this will be the type on which the member is declared, * not the type where the declaration is lexically written. Use * &lt;code&gt;SourceLocation.getWithinType()&lt;/code&gt; to get the type in * which the declaration occurs lexically.&lt;/p&gt; * &lt;p&gt;For consistency with &lt;code&gt;java.lang.reflect.Member&lt;/code&gt;, this * method should have been named &lt;code&gt;getDeclaringClass()&lt;/code&gt;.&lt;/p&gt; *" />
-      <item value="encapsulates" />
-      <item value="Returns an object that encapsulates the static parts of this join point. */" />
-      <item value="arguments" />
-      <item value="Returns the signature at the join point." />
-      <item value="When compiling without debug info, or when interpreting pointcuts at runtime, * the names of any arguments used in the advice declaration are not available. * Under these circumstances only, it is necessary to provide the arg names in * the annotation - these MUST duplicate the names used in the annotated method. * Format is a simple comma-separated list." />
-      <item value="The pointcut expression where to bind the advice" />
-      <item value="** * Specify one or more validation groups to apply to the validation step * kicked off by this annotation. * &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares * for the sole purpose of using them as type-safe group arguments, as implemented in * {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. * &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may * support class arguments in other ways as well. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
       </map>
     </option>
   </component>
