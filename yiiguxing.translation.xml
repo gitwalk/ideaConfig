@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="So, when expanding the definition of v while analyzing the top-level query, * we tag each ASTNode with a reference to an ASTNodeOrign describing v and its * usage within the query." />
+      <item value="init Parse Ctx" />
+      <item value="Create a clone of the parse context" />
+      <item value="Take all the driver run hooks and post-execute them." />
+      <item value="// for canceling the query (should be bound to session?)" />
+      <item value="/ the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
+      <item value="compile internal will automatically reset the perf logger" />
+      <item value="// the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
+      <item value="Snapshot was outdated when locks were acquired, hence regenerate context, // txn list and retry // TODO: Lock acquisition should be moved before analyze, this is a bit hackish. // Currently, we acquire a snapshot, we compile the query wrt that snapshot, // and then, we acquire locks. If snapshot is still valid, we continue as usual. // But if snapshot is not valid, we recompile the query." />
+      <item value="Since we're reusing the compiled plan, we need to update its start time for current run" />
+      <item value="/*Some HiveExceptions (e.g. SemanticException) don't set canonical ErrorMsg explicitly, but there is logic (e.g. #compile()) to find an appropriate canonical error and return its code as error code. In this case we want to preserve it for downstream code to interpret*/" />
+      <item value="/*Here we want to encode the error in machine readable way (e.g. JSON) * Ideally, errorCode would always be set to a canonical error defined in ErrorMsg. * In practice that is rarely the case, so the messy logic below tries to tease * out canonical error code if it can. Exclude stack trace from output when * the error is a specific/expected one. * It's written to stdout for backward compatibility (WebHCat consumes it).*/" />
       <item value="ExecuteWithHookContext is a new interface that the Pre/Post Execute Hook can run with the HookContext" />
       <item value="Based on the plan outputs, find out the target table name and column names" />
       <item value="Subclasses" />
@@ -39,23 +51,11 @@
       <item value="stagging table for dataset" />
       <item value="/** * The DataOriginView class is used to find our dataset data origin. Previously, the values EI, CORP, and PROD * were hardcoded into the frontend UI, but users actually wanted even more information about the cluster the * data lives on (e.g. Holdem, War). */" />
       <item value="Lineage" />
-      <item value="Get downstream datasets lineage for a certain dataset, similar to downstream datasets but with * lineage data attached" />
-      <item value="Causes the current thread to wait, if necessary, until the * process represented by this {@code Process} object has * terminated. This method returns immediately if the subprocess * has already terminated. If the subprocess has not yet * terminated, the calling thread will be blocked until the * subprocess exits. * * @return the exit value of the subprocess represented by this * {@code Process} object. By convention, the value * {@code 0} indicates normal termination. * @throws InterruptedException if the current thread is * {@linkplain Thread#interrupt() interrupted} by another * thread while it is waiting, then the wait is ended and * an {@link InterruptedException} is thrown. */" />
-      <item value="indicates if this part is the leftmost in the range" />
-      <item value="/** * Sorts the specified range of the array using the given * workspace array slice if possible for merging * * @param a the array to be sorted * @param left the index of the first element, inclusive, to be sorted * @param right the index of the last element, inclusive, to be sorted * @param work a workspace array (slice) * @param workBase origin of usable space in work array * @param workLen usable size of work array */" />
-      <item value="* Adapter no-op implementation - does nothing and returns immediately. * * @param session the session that has expired." />
-      <item value="/** * Adapter no-op implementation - does nothing and returns immediately. * * @param session the session that has stopped." />
-      <item value="Simple adapter implementation of the {@link SessionListener} interface, effectively providing * no-op implementations of all methods. *" />
-      <item value="* Retrieves the Session object from the underlying EIS identified by &lt;tt&gt;sessionId&lt;/tt&gt; by delegating to * the {@link #doReadSession(java.io.Serializable)} method. If {@code null} is returned from that method, an * {@link UnknownSessionException} will be thrown. * * @param sessionId the id of the session to retrieve from the EIS. * @return the session identified by &lt;tt&gt;sessionId&lt;/tt&gt; in the EIS. * @throws UnknownSessionException if the id specified does not correspond to any session in the EIS. */" />
-      <item value="/** * Get the value of {@code key}. * * @param key must not be {@literal null}. * @return {@literal null} when used in pipeline / transaction. * @see &lt;a href=&quot;http://redis.io/commands/get&quot;&gt;Redis Documentation: GET&lt;/a&gt; */" />
-      <item value="/** * Retrieves the session from the EIS uniquely identified by the specified * {@code sessionId}. * * @param sessionId the system-wide unique identifier of the Session object to retrieve from * the EIS. * @return the persisted session in the EIS identified by {@code sessionId}. * @throws UnknownSessionException if there is no EIS record for any session with the * specified {@code sessionId} */" />
-      <item value="DEPARTMENT" />
-      <item value="/** * Asserts this Subject has the specified role by returning quietly if they do or throwing an * {@link org.apache.shiro.authz.AuthorizationException} if they do not. * * @param roleIdentifier the application-specific role identifier (usually a role id or role name ). * @throws org.apache.shiro.authz.AuthorizationException * if this Subject does not have the role. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
       </map>
     </option>
   </component>
