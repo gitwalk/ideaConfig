@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ExecuteWithHookContext is a new interface that the Pre/Post Execute Hook can run with the HookContext" />
+      <item value="Based on the plan outputs, find out the target table name and column names" />
       <item value="Subclasses" />
       <item value="classLoader the class loader to create the proxy with" />
       <item value="Create a new proxy according to the settings in this factory. * &lt;p&gt;Can be called repeatedly. Effect will vary if we've added * or removed interfaces. Can add and remove interceptors. * &lt;p&gt;Uses the given class loader (if necessary for proxy creation)." />
@@ -49,13 +51,11 @@
       <item value="/** * Retrieves the session from the EIS uniquely identified by the specified * {@code sessionId}. * * @param sessionId the system-wide unique identifier of the Session object to retrieve from * the EIS. * @return the persisted session in the EIS identified by {@code sessionId}. * @throws UnknownSessionException if there is no EIS record for any session with the * specified {@code sessionId} */" />
       <item value="DEPARTMENT" />
       <item value="/** * Asserts this Subject has the specified role by returning quietly if they do or throwing an * {@link org.apache.shiro.authz.AuthorizationException} if they do not. * * @param roleIdentifier the application-specific role identifier (usually a role id or role name ). * @throws org.apache.shiro.authz.AuthorizationException * if this Subject does not have the role. */" />
-      <item value="/** * Returns {@code true} if this Subject has the specified role, {@code false} otherwise. * * @param roleIdentifier the application-specific role identifier (usually a role id or role name). * @return {@code true} if this Subject has the specified role, {@code false} otherwise. */" />
-      <item value="get User Distributions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
       </map>
     </option>
   </component>
