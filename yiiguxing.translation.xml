@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates that the column is derived from the output * of a user script through a TRANSFORM, MAP or REDUCE syntax * or from the output of a PTF chain execution." />
+      <item value="Indicates that the column is derived from a UDF, UDAF, UDTF or * set operations like union on columns on other tables * e.g. T2.c1 = T1.c1 + T3.c1." />
+      <item value="Indicates that the column is derived from another table column * with no transformations e.g. T2.c1 = T1.c1." />
+      <item value="Gets the new dependency type by comparing the old dependency type and the * current dependency type. The current dependency type is the dependency imposed * by the current expression. Typically the dependency type is computed using * the following rules: * SCRIPT - In case anywhere in the lineage tree there was a script operator, otherwise * EXPRESSION - In case anywhere in the lineage tree a union, * udf, udaf or udtf was done, otherwise * SIMPLE - This captures direct column copies." />
+      <item value="The parse context that is used to get table metadata information" />
+      <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query." />
+      <item value="A map from operator to the conditions strings." />
+      <item value="This class contains the lineage context that is passed * while walking the operator tree in Lineage. The context * contains the LineageInfo structure that is passed to the * pre-execution hooks." />
+      <item value="Put the dependency in the map" />
+      <item value="Processor for TableScan Operator. This actually creates the base column mappings." />
+      <item value="The operator whose dependency is being inserted." />
+      <item value="Puts the dependency for an operator, columninfo tuple." />
+      <item value="Processor for Script and UDTF Operators." />
+      <item value="list of map join operators with no reducer" />
+      <item value="list of destination files being loaded" />
+      <item value="list of destination tables being loaded" />
+      <item value="map from table scan operator to partition pruner" />
+      <item value="Make sure the basic query properties are initialized" />
+      <item value="Parse Context: The current parse context. This is passed to the optimizer * which then transforms the operator tree using the parse context. All the * optimizations are performed sequentially and then the new parse context * populated. Note that since the parse context contains the operator tree, it * can be easily retrieved by the next optimization step or finally for task * generation after the plan has been completely optimized." />
+      <item value="Analyze the rewritten statement" />
       <item value="So, when expanding the definition of v while analyzing the top-level query, * we tag each ASTNode with a reference to an ASTNodeOrign describing v and its * usage within the query." />
       <item value="init Parse Ctx" />
       <item value="Create a clone of the parse context" />
@@ -31,31 +51,11 @@
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance" />
       <item value="// Make sure bean class is actually resolved at this point, and // clone the bean definition in case of a dynamically resolved Class // which cannot be stored in the shared merged bean definition." />
       <item value="Check if required type matches the type of the actual bean instance" />
-      <item value="While this may not be part of the regular factory bootstrap, it does otherwise work fine" />
-      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions" />
-      <item value="Instantiate all remaining (non-lazy-init) singletons" />
-      <item value="// Register a default embedded value resolver if no bean post-processor // (such as a PropertyPlaceholderConfigurer bean) registered any before: // at this point, primarily for resolution in annotation attribute values." />
-      <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="Register bean processors that intercept bean creation" />
-      <item value="// Register BeanPostProcessorChecker that logs an info message when // a bean is created during BeanPostProcessor instantiation, i.e. when // a bean is not eligible for getting processed by all BeanPostProcessors." />
-      <item value="separator" />
-      <item value="Initialization" />
-      <item value="1. `spring-core` and `spring-oxm` should be pre-compiled due to repackaged dependencies. See `*RepackJar` tasks in the build and https://youtrack.jetbrains.com/issue/IDEA-160605). 2. `spring-aspects` does not compile due to references to aspect types unknown to IntelliJ IDEA. See https://youtrack.jetbrains.com/issue/IDEA-64446 for details. In the meantime, the 'spring-aspects' can be excluded from the project to avoid compilation errors. 3. While JUnit tests pass from the command line with Gradle, some may fail when run from IntelliJ IDEA. Resolving this is a work in progress. If attempting to run all JUnit tests from within IntelliJ IDEA, you will likely need to set the following VM options to avoid out of memory errors: -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m 4. If you invoke &quot;Rebuild Project&quot; in the IDE, you'll have to generate some test resources of the `spring-oxm` module again (`./gradlew :spring-oxm:compileTestJava`)" />
-      <item value="Navigate" />
-      <item value="When prompted exclude the `spring-aspects` module (or after the import via File-&gt; Project Structure -&gt; Modules) 4. Code away" />
-      <item value="CREDENTIALS" />
-      <item value="/** * Used to dereference a {@link FactoryBean} instance and distinguish it from * beans &lt;i&gt;created&lt;/i&gt; by the FactoryBean. For example, if the bean named * {@code myJndiObject} is a FactoryBean, getting {@code &amp;myJndiObject} * will return the factory, not the instance returned by the factory. */" />
-      <item value="Mapped Statements collection does not contain value for com.bupt.cad.metadataserver.dao.DictionaryDao.findByDictCode" />
-      <item value="The Web UI provides navigation between the bits of information and the ability to annotate the collected data with comments, ownership and more. The example below is for collecting Hive metadata collected from the Cloudera Hadoop VM Wherehows comes in three operational components: - [Backend service](../wherehows-backend/README.md) - **A web-ui service** - Database schema for MySQL" />
-      <item value="return all declared fields of the class, exclude inherited fields" />
-      <item value="stagging table for dataset" />
-      <item value="/** * The DataOriginView class is used to find our dataset data origin. Previously, the values EI, CORP, and PROD * were hardcoded into the frontend UI, but users actually wanted even more information about the cluster the * data lives on (e.g. Holdem, War). */" />
-      <item value="Lineage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
       </map>
     </option>
   </component>
