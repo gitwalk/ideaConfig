@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Acquires in exclusive mode, ignoring interrupts. Implemented * by invoking at least once {@link #tryAcquire}, * returning on success. Otherwise the thread is queued, possibly * repeatedly blocking and unblocking, invoking {@link * #tryAcquire} until success. This method can be used * to implement method {@link Lock#lock}." />
+      <item value="acquire Queued" />
       <item value="Eagerly cache singletons to be able to resolve circular references" />
       <item value="This class contains the lineage context that is passed * while walking the operator tree in Lineage. The context * contains the LineageInfo structure that is passed to the * pre-execution hooks." />
       <item value="Indicates that the column is derived from the output * of a user script through a TRANSFORM, MAP or REDUCE syntax * or from the output of a PTF chain execution." />
@@ -49,13 +51,11 @@
       <item value="Create a proxy with the configured interceptors if the bean is * identified as one to proxy by the subclass." />
       <item value="initialize Bean" />
       <item value="Make sure bean class is actually resolved at this point" />
-      <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance" />
-      <item value="// Make sure bean class is actually resolved at this point, and // clone the bean definition in case of a dynamically resolved Class // which cannot be stored in the shared merged bean definition." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
       </map>
     </option>
   </component>
