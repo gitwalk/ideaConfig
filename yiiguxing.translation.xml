@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Internal" />
       <item value="Since we're reusing the compiled plan, we need to update its start time for current run" />
       <item value="the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
       <item value="use the specified database if specified" />
@@ -50,12 +51,11 @@
       <item value="the cache key for metadata access" />
       <item value="the raw bean instance" />
       <item value="Wrap the given bean if necessary, i.e. if it is eligible for being proxied" />
-      <item value="Create a proxy with the configured interceptors if the bean is * identified as one to proxy by the subclass." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
       </map>
     </option>
   </component>
