@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Any changes you make to this file will be ignored by Hive" />
+      <item value="This file is auto generated for documentation purposes ONLY" />
+      <item value="Comma-separated list of post-execution hooks to be invoked for each statement. A post-execution hook is specified as the name of a Java class which implements the org.apache.hadoop.hive.ql.hooks.ExecuteWithHookContext interface." />
       <item value="Internal" />
       <item value="Since we're reusing the compiled plan, we need to update its start time for current run" />
       <item value="the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
@@ -48,14 +51,11 @@
       <item value="Can add and remove interceptors" />
       <item value="Effect will vary if we've added * or removed interfaces." />
       <item value="Can be called repeatedly" />
-      <item value="the cache key for metadata access" />
-      <item value="the raw bean instance" />
-      <item value="Wrap the given bean if necessary, i.e. if it is eligible for being proxied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
       </map>
     </option>
   </component>
