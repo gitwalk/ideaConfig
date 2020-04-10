@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Since we're reusing the compiled plan, we need to update its start time for current run" />
+      <item value="the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
       <item value="use the specified database if specified" />
       <item value="Acquires in exclusive mode, ignoring interrupts. Implemented * by invoking at least once {@link #tryAcquire}, * returning on success. Otherwise the thread is queued, possibly * repeatedly blocking and unblocking, invoking {@link * #tryAcquire} until success. This method can be used * to implement method {@link Lock#lock}." />
       <item value="acquire Queued" />
@@ -34,7 +36,6 @@
       <item value="compile internal will automatically reset the perf logger" />
       <item value="// the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
       <item value="Snapshot was outdated when locks were acquired, hence regenerate context, // txn list and retry // TODO: Lock acquisition should be moved before analyze, this is a bit hackish. // Currently, we acquire a snapshot, we compile the query wrt that snapshot, // and then, we acquire locks. If snapshot is still valid, we continue as usual. // But if snapshot is not valid, we recompile the query." />
-      <item value="Since we're reusing the compiled plan, we need to update its start time for current run" />
       <item value="/*Some HiveExceptions (e.g. SemanticException) don't set canonical ErrorMsg explicitly, but there is logic (e.g. #compile()) to find an appropriate canonical error and return its code as error code. In this case we want to preserve it for downstream code to interpret*/" />
       <item value="/*Here we want to encode the error in machine readable way (e.g. JSON) * Ideally, errorCode would always be set to a canonical error defined in ErrorMsg. * In practice that is rarely the case, so the messy logic below tries to tease * out canonical error code if it can. Exclude stack trace from output when * the error is a specific/expected one. * It's written to stdout for backward compatibility (WebHCat consumes it).*/" />
       <item value="ExecuteWithHookContext is a new interface that the Pre/Post Execute Hook can run with the HookContext" />
@@ -50,12 +51,11 @@
       <item value="the raw bean instance" />
       <item value="Wrap the given bean if necessary, i.e. if it is eligible for being proxied" />
       <item value="Create a proxy with the configured interceptors if the bean is * identified as one to proxy by the subclass." />
-      <item value="initialize Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
       </map>
     </option>
   </component>
