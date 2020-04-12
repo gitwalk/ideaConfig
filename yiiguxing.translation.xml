@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// We did not create the table before moving the data files for a non-partitioned table i.e // we used load file instead of load table (see SemanticAnalyzer#getFileSinkPlan() for // more details). Thus could not add a write notification required for a transactional // table. Do that here, after we have created the table. Since this is a newly created // table, listing all the files in the directory and listing only the ones corresponding to // the given id doesn't have much difference." />
       <item value="Any changes you make to this file will be ignored by Hive" />
       <item value="This file is auto generated for documentation purposes ONLY" />
       <item value="Comma-separated list of post-execution hooks to be invoked for each statement. A post-execution hook is specified as the name of a Java class which implements the org.apache.hadoop.hive.ql.hooks.ExecuteWithHookContext interface." />
@@ -50,12 +51,11 @@
       <item value="Uses the given class loader (if necessary for proxy creation)" />
       <item value="Can add and remove interceptors" />
       <item value="Effect will vary if we've added * or removed interfaces." />
-      <item value="Can be called repeatedly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
       </map>
     </option>
   </component>
