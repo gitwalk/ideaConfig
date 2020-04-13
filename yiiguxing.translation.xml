@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
+      <item value="location" />
+      <item value="change the location of position alias process here" />
+      <item value="Resolved" />
+      <item value="Generate" />
+      <item value="Generate Resolved Parse tree from syntax tree" />
+      <item value="Do semantic analysis and plan generation" />
+      <item value="// Record current valid txn list that will be used throughout the query // compilation and processing. We only do this if 1) a transaction // was already opened and 2) the list has not been recorded yet, // e.g., by an explicit open transaction command." />
+      <item value="Determines transaction type based on query AST" />
+      <item value="also sets the hive operation in query state" />
+      <item value="SemanticAnalyzer finds are in use" />
+      <item value="clear CurrentFunctionsInUse set, to capture new set of functions // that SemanticAnalyzer finds are in use" />
       <item value="Enumerate numLevels of ancestors by putting them in the stack and dispatch * the current node. * * @param nd current operator in the ancestor tree * @param level how many level of ancestors included in the stack * @param stack operator stack * @throws SemanticException" />
       <item value="walk" />
       <item value="// We did not create the table before moving the data files for a non-partitioned table i.e // we used load file instead of load table (see SemanticAnalyzer#getFileSinkPlan() for // more details). Thus could not add a write notification required for a transactional // table. Do that here, after we have created the table. Since this is a newly created // table, listing all the files in the directory and listing only the ones corresponding to // the given id doesn't have much difference." />
@@ -39,23 +51,11 @@
       <item value="Create a clone of the parse context" />
       <item value="Take all the driver run hooks and post-execute them." />
       <item value="// for canceling the query (should be bound to session?)" />
-      <item value="/ the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
-      <item value="compile internal will automatically reset the perf logger" />
-      <item value="// the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
-      <item value="Snapshot was outdated when locks were acquired, hence regenerate context, // txn list and retry // TODO: Lock acquisition should be moved before analyze, this is a bit hackish. // Currently, we acquire a snapshot, we compile the query wrt that snapshot, // and then, we acquire locks. If snapshot is still valid, we continue as usual. // But if snapshot is not valid, we recompile the query." />
-      <item value="/*Some HiveExceptions (e.g. SemanticException) don't set canonical ErrorMsg explicitly, but there is logic (e.g. #compile()) to find an appropriate canonical error and return its code as error code. In this case we want to preserve it for downstream code to interpret*/" />
-      <item value="/*Here we want to encode the error in machine readable way (e.g. JSON) * Ideally, errorCode would always be set to a canonical error defined in ErrorMsg. * In practice that is rarely the case, so the messy logic below tries to tease * out canonical error code if it can. Exclude stack trace from output when * the error is a specific/expected one. * It's written to stdout for backward compatibility (WebHCat consumes it).*/" />
-      <item value="ExecuteWithHookContext is a new interface that the Pre/Post Execute Hook can run with the HookContext" />
-      <item value="Based on the plan outputs, find out the target table name and column names" />
-      <item value="Subclasses" />
-      <item value="classLoader the class loader to create the proxy with" />
-      <item value="Create a new proxy according to the settings in this factory. * &lt;p&gt;Can be called repeatedly. Effect will vary if we've added * or removed interfaces. Can add and remove interceptors. * &lt;p&gt;Uses the given class loader (if necessary for proxy creation)." />
-      <item value="Uses the given class loader (if necessary for proxy creation)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
       </map>
     </option>
   </component>
