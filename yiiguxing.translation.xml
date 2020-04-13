@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deferClose indicates if the close/destroy should be deferred when the process has been" />
+      <item value="Internal" />
       <item value="Set HDFS CallerContext to queryId and reset back to sessionId after the query is done" />
       <item value="local mode" />
       <item value="for shell commands, use unstripped command" />
@@ -49,13 +51,11 @@
       <item value="Process the position alias in GROUPBY and ORDERBY" />
       <item value="position" />
       <item value="location" />
-      <item value="change the location of position alias process here" />
-      <item value="Resolved" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
