@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoke all the transformations one-by-one, and alter the query plan" />
+      <item value="transformations" />
       <item value="Retrieve information about cache usage for the query." />
       <item value="validate the plan" />
       <item value="Determines transaction type based on query AST" />
@@ -49,13 +51,11 @@
       <item value="Materialization" />
       <item value="Materialization is allowed if it is not a view definition" />
       <item value="Resolve Parse Tree" />
-      <item value="masking and filtering should be created here" />
-      <item value="step processPositionAlias out of genResolvedParseTree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
