@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimizer" />
+      <item value="Dispatcher to call for each op encountered" />
+      <item value="Constructor with keeping all the ancestors in the operator stack during * dispatching." />
+      <item value="for a lineage generator with operator tree, 2 levels of current node's * ancestors need to keep in the operator stack." />
+      <item value="Each node will be accessed once while it could be dispatched multiple times" />
+      <item value="that the node will only get dispatched after all the parents are dispatched" />
+      <item value="Starting from the startNodes, add the children whose parents have been // included in the list." />
+      <item value="starting point for walking" />
+      <item value="Create a list of topop nodes" />
+      <item value="The dispatcher fires the processor corresponding to the closest matching rule and passes the context along" />
+      <item value="Create the lineage context" />
+      <item value="Perform Logical optimization" />
+      <item value="Generate table access stats if required" />
+      <item value="Take care of view creation" />
+      <item value="Set the mapjoin hint if it needs to be disabled" />
+      <item value="Set the semijoin hints in parse context" />
+      <item value="Generate" />
+      <item value="Generate Parse Context for Optimizer &amp; Physical compiler" />
+      <item value="Deduce" />
+      <item value="Deduce Resultset Schema" />
+      <item value="the table needs to be masked or filtered" />
       <item value="We walk through the AST" />
       <item value="Here we rewrite the * and also the masking table" />
       <item value="Gen OP Tree from resolved Parse Tree" />
@@ -16,7 +37,6 @@
       <item value="location" />
       <item value="change the location of position alias process here" />
       <item value="Resolved" />
-      <item value="Generate" />
       <item value="Generate Resolved Parse tree from syntax tree" />
       <item value="Do semantic analysis and plan generation" />
       <item value="// Record current valid txn list that will be used throughout the query // compilation and processing. We only do this if 1) a transaction // was already opened and 2) the list has not been recorded yet, // e.g., by an explicit open transaction command." />
@@ -31,31 +51,11 @@
       <item value="This file is auto generated for documentation purposes ONLY" />
       <item value="Comma-separated list of post-execution hooks to be invoked for each statement. A post-execution hook is specified as the name of a Java class which implements the org.apache.hadoop.hive.ql.hooks.ExecuteWithHookContext interface." />
       <item value="Internal" />
-      <item value="Since we're reusing the compiled plan, we need to update its start time for current run" />
-      <item value="the reason that we set the txn manager for the cxt here is because each // query has its own ctx object. The txn mgr is shared across the // same instance of Driver, which can run multiple queries." />
-      <item value="use the specified database if specified" />
-      <item value="Acquires in exclusive mode, ignoring interrupts. Implemented * by invoking at least once {@link #tryAcquire}, * returning on success. Otherwise the thread is queued, possibly * repeatedly blocking and unblocking, invoking {@link * #tryAcquire} until success. This method can be used * to implement method {@link Lock#lock}." />
-      <item value="acquire Queued" />
-      <item value="Eagerly cache singletons to be able to resolve circular references" />
-      <item value="This class contains the lineage context that is passed * while walking the operator tree in Lineage. The context * contains the LineageInfo structure that is passed to the * pre-execution hooks." />
-      <item value="Indicates that the column is derived from the output * of a user script through a TRANSFORM, MAP or REDUCE syntax * or from the output of a PTF chain execution." />
-      <item value="Indicates that the column is derived from a UDF, UDAF, UDTF or * set operations like union on columns on other tables * e.g. T2.c1 = T1.c1 + T3.c1." />
-      <item value="Indicates that the column is derived from another table column * with no transformations e.g. T2.c1 = T1.c1." />
-      <item value="Gets the new dependency type by comparing the old dependency type and the * current dependency type. The current dependency type is the dependency imposed * by the current expression. Typically the dependency type is computed using * the following rules: * SCRIPT - In case anywhere in the lineage tree there was a script operator, otherwise * EXPRESSION - In case anywhere in the lineage tree a union, * udf, udaf or udtf was done, otherwise * SIMPLE - This captures direct column copies." />
-      <item value="The parse context that is used to get table metadata information" />
-      <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query." />
-      <item value="A map from operator to the conditions strings." />
-      <item value="Put the dependency in the map" />
-      <item value="Processor for TableScan Operator. This actually creates the base column mappings." />
-      <item value="The operator whose dependency is being inserted." />
-      <item value="Puts the dependency for an operator, columninfo tuple." />
-      <item value="Processor for Script and UDTF Operators." />
-      <item value="list of map join operators with no reducer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
