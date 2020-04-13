@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set HDFS CallerContext to queryId and reset back to sessionId after the query is done" />
+      <item value="local mode" />
+      <item value="for shell commands, use unstripped command" />
       <item value="Let Driver strip comments using sql parser" />
       <item value="Flush the print stream, so it doesn't include output from the last command" />
       <item value="Once we are done processing the line, restore the old handler" />
@@ -48,14 +51,11 @@
       <item value="location" />
       <item value="change the location of position alias process here" />
       <item value="Resolved" />
-      <item value="Generate Resolved Parse tree from syntax tree" />
-      <item value="Do semantic analysis and plan generation" />
-      <item value="// Record current valid txn list that will be used throughout the query // compilation and processing. We only do this if 1) a transaction // was already opened and 2) the list has not been recorded yet, // e.g., by an explicit open transaction command." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="DUTCH" value="1" />
       </map>
     </option>
