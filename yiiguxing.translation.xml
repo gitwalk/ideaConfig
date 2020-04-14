@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fix up the query for materialization rebuild" />
+      <item value="Fix up the query for insert/ctas/materialized views" />
+      <item value="Convert Plan to AST" />
+      <item value="* Tries to optimize FROM clause of multi-insert. No attempt to optimize insert clauses of the query. * Returns true if rewriting is successful, false otherwise." />
       <item value="Regen OP plan from optimized AST" />
       <item value="Include cost as provided by Calcite" />
       <item value="Recurse over the subqueries to fill the subquery part of the plan" />
@@ -47,15 +51,11 @@
       <item value="Set the mapjoin hint if it needs to be disabled" />
       <item value="Set the semijoin hints in parse context" />
       <item value="Generate" />
-      <item value="Deduce" />
-      <item value="Deduce Resultset Schema" />
-      <item value="the table needs to be masked or filtered" />
-      <item value="We walk through the AST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
