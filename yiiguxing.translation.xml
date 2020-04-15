@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get Optimized AST for the given QB tree in the semAnalyzer" />
+      <item value="fetch all the hints in qb" />
       <item value="Fix up the query for materialization rebuild" />
       <item value="Fix up the query for insert/ctas/materialized views" />
       <item value="Convert Plan to AST" />
@@ -9,7 +11,6 @@
       <item value="Include cost as provided by Calcite" />
       <item value="Recurse over the subqueries to fill the subquery part of the plan" />
       <item value="First generate all the opInfos for the elements in the from clause" />
-      <item value="fetch all the hints in qb" />
       <item value="Generate Parse Context for Optimizer &amp; Physical compiler" />
       <item value="Invoke all the transformations one-by-one, and alter the query plan" />
       <item value="transformations" />
@@ -50,12 +51,11 @@
       <item value="Take care of view creation" />
       <item value="Set the mapjoin hint if it needs to be disabled" />
       <item value="Set the semijoin hints in parse context" />
-      <item value="Generate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
