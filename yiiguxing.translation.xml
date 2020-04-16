@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hive sends with both old and new table names in the outputs which is weird. So skipping that with the below check" />
       <item value="change the location of position alias process here" />
       <item value="Get Optimized AST for the given QB tree in the semAnalyzer" />
       <item value="fetch all the hints in qb" />
@@ -50,12 +51,11 @@
       <item value="Perform Logical optimization" />
       <item value="Generate table access stats if required" />
       <item value="Take care of view creation" />
-      <item value="Set the mapjoin hint if it needs to be disabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
