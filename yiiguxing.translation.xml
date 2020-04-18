@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compile a new query. Any currently-planned query associated with this Driver is discarded. * Do not reset id for inner queries(index, etc). Task ids are used for task identity check. *" />
+      <item value="Pass lineageState when a driver instantiates another Driver to run // or compile another query" />
       <item value="* The compiler compiles the command, by creating a QueryPlan from a String command. * Also opens a transaction if necessary." />
       <item value="// The dispatcher fires the processor corresponding to the closest matching // rule and passes the context along" />
       <item value="// create a walker which walks the tree in a DFS manner while maintaining // the operator stack. The dispatcher // generates the plan from the operator tree" />
@@ -49,13 +51,11 @@
       <item value="Starting from the startNodes, add the children whose parents have been // included in the list." />
       <item value="starting point for walking" />
       <item value="Create a list of topop nodes" />
-      <item value="The dispatcher fires the processor corresponding to the closest matching rule and passes the context along" />
-      <item value="Create the lineage context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
