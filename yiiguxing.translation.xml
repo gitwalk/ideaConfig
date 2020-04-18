@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No FileSystem for scheme: hdfs" />
       <item value="is encrypted" />
       <item value="Unable to determine" />
       <item value="// deferClose indicates if the close/destroy should be deferred when the process has been // interrupted, it should be set to true if the compile is called within another method like // runInternal, which defers the close to the called in that method." />
@@ -50,12 +51,11 @@
       <item value="Dispatcher to call for each op encountered" />
       <item value="Constructor with keeping all the ancestors in the operator stack during * dispatching." />
       <item value="for a lineage generator with operator tree, 2 levels of current node's * ancestors need to keep in the operator stack." />
-      <item value="Each node will be accessed once while it could be dispatched multiple times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
