@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Missing over clause for function" />
+      <item value="Looks up the function name in the registry. If enabled, will attempt to search the metastore * for the function." />
+      <item value="Operator argument type mismatch" />
+      <item value="Function argument type mismatch" />
+      <item value="expression Tree" />
       <item value="Generate Resolved Parse tree from syntax tree" />
       <item value="// resultSchema will be null if // (1) cbo is disabled; // (2) or cbo is enabled with AST return path (whether succeeded or not, // resultSchema will be re-initialized) // It will only be not null if cbo is enabled with new return path and it // succeeds." />
       <item value="Set the semijoin hints in parse context" />
@@ -46,16 +51,11 @@
       <item value="Let Driver strip comments using sql parser" />
       <item value="Flush the print stream, so it doesn't include output from the last command" />
       <item value="Once we are done processing the line, restore the old handler" />
-      <item value="we can not use &quot;split&quot; function directly as &quot;;&quot; may be quoted" />
-      <item value="Remember all threads that were running at the time we started line processing." />
-      <item value="The commands to process" />
-      <item value="Processes a line of semicolon separated commands" />
-      <item value="use the specified database if specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
