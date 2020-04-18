@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Flush the metastore cache. This assures that we don't pick up objects from a previous // query running in this same thread. This has to be done after we get our semantic // analyzer (this is when the connection to the metastore is made) but before we analyze, // because at that point we need access to the objects." />
+      <item value="clear CurrentFunctionsInUse set, to capture new set of functions // that SemanticAnalyzer finds are in use" />
+      <item value="Trigger query hook before compilation" />
       <item value="No FileSystem for scheme: hdfs" />
       <item value="is encrypted" />
       <item value="Unable to determine" />
@@ -48,14 +51,11 @@
       <item value="Operation processor of the CLI invocation" />
       <item value="Execute the cli work" />
       <item value="optimizer" />
-      <item value="Dispatcher to call for each op encountered" />
-      <item value="Constructor with keeping all the ancestors in the operator stack during * dispatching." />
-      <item value="for a lineage generator with operator tree, 2 levels of current node's * ancestors need to keep in the operator stack." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
