@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// deferClose indicates if the close/destroy should be deferred when the process has been // interrupted, it should be set to true if the compile is called within another method like // runInternal, which defers the close to the called in that method." />
+      <item value="Get a Schema with fields represented with native Hive types" />
+      <item value="validate the plan" />
       <item value="Compile a new query. Any currently-planned query associated with this Driver is discarded. * Do not reset id for inner queries(index, etc). Task ids are used for task identity check. *" />
       <item value="Pass lineageState when a driver instantiates another Driver to run // or compile another query" />
       <item value="* The compiler compiles the command, by creating a QueryPlan from a String command. * Also opens a transaction if necessary." />
@@ -22,7 +25,6 @@
       <item value="Invoke all the transformations one-by-one, and alter the query plan" />
       <item value="transformations" />
       <item value="Retrieve information about cache usage for the query." />
-      <item value="validate the plan" />
       <item value="Determines transaction type based on query AST" />
       <item value="Determines transaction type based on query AST." />
       <item value="SemanticAnalyzerFactory also sets the hive operation in query state" />
@@ -49,13 +51,11 @@
       <item value="Each node will be accessed once while it could be dispatched multiple times" />
       <item value="that the node will only get dispatched after all the parents are dispatched" />
       <item value="Starting from the startNodes, add the children whose parents have been // included in the list." />
-      <item value="starting point for walking" />
-      <item value="Create a list of topop nodes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
