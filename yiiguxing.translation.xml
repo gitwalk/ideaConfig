@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SHOW FUNCTIONS is deprecated, please use SHOW FUNCTIONS LIKE instead." />
+      <item value="Try qualifying with current db name for permanent functions" />
+      <item value="First try without qualifiers - would resolve builtin/temp functions" />
       <item value="Missing over clause for function" />
       <item value="Looks up the function name in the registry. If enabled, will attempt to search the metastore * for the function." />
       <item value="Operator argument type mismatch" />
@@ -48,14 +51,11 @@
       <item value="Set HDFS CallerContext to queryId and reset back to sessionId after the query is done" />
       <item value="local mode" />
       <item value="for shell commands, use unstripped command" />
-      <item value="Let Driver strip comments using sql parser" />
-      <item value="Flush the print stream, so it doesn't include output from the last command" />
-      <item value="Once we are done processing the line, restore the old handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
