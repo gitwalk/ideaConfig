@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Both UDF and UDAF functions can imply order for analytical functions" />
+      <item value="Validate the function name" />
       <item value="SHOW FUNCTIONS is deprecated, please use SHOW FUNCTIONS LIKE instead." />
       <item value="Try qualifying with current db name for permanent functions" />
       <item value="First try without qualifiers - would resolve builtin/temp functions" />
@@ -49,13 +51,11 @@
       <item value="deferClose indicates if the close/destroy should be deferred when the process has been" />
       <item value="Internal" />
       <item value="Set HDFS CallerContext to queryId and reset back to sessionId after the query is done" />
-      <item value="local mode" />
-      <item value="for shell commands, use unstripped command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
