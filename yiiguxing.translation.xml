@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generate Resolved Parse tree from syntax tree" />
+      <item value="// resultSchema will be null if // (1) cbo is disabled; // (2) or cbo is enabled with AST return path (whether succeeded or not, // resultSchema will be re-initialized) // It will only be not null if cbo is enabled with new return path and it // succeeds." />
+      <item value="Set the semijoin hints in parse context" />
+      <item value="// Generate lineage info for create view statements // if LineageLogger hook is configured. // Add the transformation that computes the lineage information." />
       <item value="// Flush the metastore cache. This assures that we don't pick up objects from a previous // query running in this same thread. This has to be done after we get our semantic // analyzer (this is when the connection to the metastore is made) but before we analyze, // because at that point we need access to the objects." />
       <item value="clear CurrentFunctionsInUse set, to capture new set of functions // that SemanticAnalyzer finds are in use" />
       <item value="Trigger query hook before compilation" />
@@ -47,15 +51,11 @@
       <item value="The commands to process" />
       <item value="Processes a line of semicolon separated commands" />
       <item value="use the specified database if specified" />
-      <item value="status of the CLI command execution" />
-      <item value="Operation processor of the CLI invocation" />
-      <item value="Execute the cli work" />
-      <item value="optimizer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
