@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '~/.m2/repository/org/apache/hive/hive-exec/3.1.1/hive-exec-3.1.1.jar!/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.class [Maven: org.apache.hive:hive-exec:3.1.1]'" />
+    <option name="defaultScopeName" value="File '~/.m2/repository/org/apache/hive/hive-exec/3.1.1/hive-exec-3.1.1.jar!/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.class [Maven: org.apache.hive:hive-exec:3.1.1]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '~/.m2/repository/org/apache/hive/hive-exec/3.1.1/hive-exec-3.1.1.jar!/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.class [Maven: org.apache.hive:hive-exec:3.1.1]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
