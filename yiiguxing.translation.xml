@@ -1,6 +1,39 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/*It's imperative that {@code acquireLocks()} is called for all commands so that HiveTxnManager can transition its state machine correctly*/" />
+      <item value="the sinks and DDL cannot coexist at this time; but if they could we would // need to make sure we don't get two write IDs for the same table" />
+      <item value="it's possible to have &gt; 1 FileSink writing to the same table/partition * e.g. Merge stmt, multi-insert stmt when mixing DP and SP writes * Insert ... Select ... Union All Select ... using * {@link org.apache.hadoop.hive.ql.exec.AbstractFileMergeOperator#UNION_SUDBIR_PREFIX} */" />
+      <item value="//sorting makes tests easier to write since file names and ROW__IDs depend on statementId //so this makes (file name -&gt; data) mapping stable" />
+      <item value="Set the table write id in all of the acid file sinks" />
+      <item value="Acquire read and write locks needed by the statement. The list of objects to be locked are * obtained from the inputs and outputs populated by the compiler. Locking strategy depends on * HiveTxnManager and HiveLockManager configured" />
+      <item value="the sinks and DDL cannot coexist at this time; but if they could we would // need to make sure we don't get two write IDs for the same table." />
+      <item value="does not add back up task here, because back up task should be the same // type of the original task" />
+      <item value="require" />
+      <item value="Lock operations themselves don't require the lock." />
+      <item value="Concurrency mode is disabled, not creating a lock manager" />
+      <item value="Assumes the query has already been compiled" />
+      <item value="the release here will do nothing because there is no lock" />
+      <item value="since set autocommit starts an implicit txn, close it" />
+      <item value="Valid" />
+      <item value="Lock acquisition should be moved before analyze, this is a bit hackish." />
+      <item value="Currently, we acquire a snapshot, we compile the query wrt that snapshot, // and then, we acquire locks. If snapshot is still valid, we continue as usual. // But if snapshot is not valid, we recompile the query." />
+      <item value="Snapshot was outdated when locks were acquired, hence regenerate context, // txn list and retry" />
+      <item value="Checks whether txn list has been invalidated while planning the query. // This would happen if query requires exclusive/semi-shared lock, and there // has been a committed transaction on the table over which the lock is // required." />
+      <item value="Trigger query hooks after query completes its execution." />
+      <item value="// compile and execute can get called from different threads in case of HS2 // so clear timing in this thread's Hive object before proceeding." />
+      <item value="// Snapshot was outdated when locks were acquired, hence regenerate context, // txn list and retry" />
+      <item value="Since we're reusing the compiled plan, we need to update its start time for current run" />
+      <item value="// deferClose indicates if the close/destroy should be deferred when the process has been // interrupted, it should be set to true if the compile is called within another method like // runInternal, which defers the close to the called in that method." />
+      <item value="compile internal will automatically reset the perf logger" />
+      <item value="Command Processor Response" />
+      <item value="Response" />
+      <item value="Processor" />
+      <item value="Internal" />
+      <item value="Here we want to encode the error in machine readable way (e.g. JSON) * Ideally, errorCode would always be set to a canonical error defined in ErrorMsg. * In practice that is rarely the case, so the messy logic below tries to tease * out canonical error code if it can. Exclude stack trace from output when * the error is a specific/expected one. * It's written to stdout for backward compatibility (WebHCat consumes it)" />
+      <item value="Enables to use re-execution logics" />
+      <item value="Let Driver strip comments using sql parser" />
+      <item value="// Start the session in a fire-and-forget manner. When the asynchronously initialized parts of // the session are needed, the corresponding getters and other methods will wait as needed" />
       <item value="Compile a new query. Any currently-planned query associated with this Driver is discarded. * Do not reset id for inner queries(index, etc). Task ids are used for task identity check" />
       <item value="Both UDF and UDAF functions can imply order for analytical functions" />
       <item value="Validate the function name" />
@@ -18,44 +51,11 @@
       <item value="// Generate lineage info for create view statements // if LineageLogger hook is configured. // Add the transformation that computes the lineage information." />
       <item value="// Flush the metastore cache. This assures that we don't pick up objects from a previous // query running in this same thread. This has to be done after we get our semantic // analyzer (this is when the connection to the metastore is made) but before we analyze, // because at that point we need access to the objects." />
       <item value="clear CurrentFunctionsInUse set, to capture new set of functions // that SemanticAnalyzer finds are in use" />
-      <item value="Trigger query hook before compilation" />
-      <item value="No FileSystem for scheme: hdfs" />
-      <item value="is encrypted" />
-      <item value="Unable to determine" />
-      <item value="// deferClose indicates if the close/destroy should be deferred when the process has been // interrupted, it should be set to true if the compile is called within another method like // runInternal, which defers the close to the called in that method." />
-      <item value="Get a Schema with fields represented with native Hive types" />
-      <item value="validate the plan" />
-      <item value="Compile a new query. Any currently-planned query associated with this Driver is discarded. * Do not reset id for inner queries(index, etc). Task ids are used for task identity check. *" />
-      <item value="Pass lineageState when a driver instantiates another Driver to run // or compile another query" />
-      <item value="* The compiler compiles the command, by creating a QueryPlan from a String command. * Also opens a transaction if necessary." />
-      <item value="// The dispatcher fires the processor corresponding to the closest matching // rule and passes the context along" />
-      <item value="// create a walker which walks the tree in a DFS manner while maintaining // the operator stack. The dispatcher // generates the plan from the operator tree" />
-      <item value="Hive sends with both old and new table names in the outputs which is weird. So skipping that with the below check" />
-      <item value="change the location of position alias process here" />
-      <item value="Get Optimized AST for the given QB tree in the semAnalyzer" />
-      <item value="fetch all the hints in qb" />
-      <item value="Fix up the query for materialization rebuild" />
-      <item value="Fix up the query for insert/ctas/materialized views" />
-      <item value="Convert Plan to AST" />
-      <item value="* Tries to optimize FROM clause of multi-insert. No attempt to optimize insert clauses of the query. * Returns true if rewriting is successful, false otherwise." />
-      <item value="Regen OP plan from optimized AST" />
-      <item value="Include cost as provided by Calcite" />
-      <item value="Recurse over the subqueries to fill the subquery part of the plan" />
-      <item value="First generate all the opInfos for the elements in the from clause" />
-      <item value="Generate Parse Context for Optimizer &amp; Physical compiler" />
-      <item value="Invoke all the transformations one-by-one, and alter the query plan" />
-      <item value="transformations" />
-      <item value="Retrieve information about cache usage for the query." />
-      <item value="Determines transaction type based on query AST" />
-      <item value="Determines transaction type based on query AST." />
-      <item value="SemanticAnalyzerFactory also sets the hive operation in query state" />
-      <item value="deferClose indicates if the close/destroy should be deferred when the process has been" />
-      <item value="Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
