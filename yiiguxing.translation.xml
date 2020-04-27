@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compile a new query, but potentially reset taskID counter. Not resetting task counter * is useful for generating re-entrant QL queries." />
       <item value="/*It's imperative that {@code acquireLocks()} is called for all commands so that HiveTxnManager can transition its state machine correctly*/" />
       <item value="the sinks and DDL cannot coexist at this time; but if they could we would // need to make sure we don't get two write IDs for the same table" />
       <item value="it's possible to have &gt; 1 FileSink writing to the same table/partition * e.g. Merge stmt, multi-insert stmt when mixing DP and SP writes * Insert ... Select ... Union All Select ... using * {@link org.apache.hadoop.hive.ql.exec.AbstractFileMergeOperator#UNION_SUDBIR_PREFIX} */" />
@@ -50,12 +51,11 @@
       <item value="Set the semijoin hints in parse context" />
       <item value="// Generate lineage info for create view statements // if LineageLogger hook is configured. // Add the transformation that computes the lineage information." />
       <item value="// Flush the metastore cache. This assures that we don't pick up objects from a previous // query running in this same thread. This has to be done after we get our semantic // analyzer (this is when the connection to the metastore is made) but before we analyze, // because at that point we need access to the objects." />
-      <item value="clear CurrentFunctionsInUse set, to capture new set of functions // that SemanticAnalyzer finds are in use" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
