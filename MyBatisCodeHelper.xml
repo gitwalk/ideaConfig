@@ -6,6 +6,7 @@
         <option name="mybatisGeneratorMapperSuffix" value="Dao" />
         <option name="userMacSet">
           <set>
+            <option value="00-1C-42-00-00-09" />
             <option value="12" />
             <option value="88-E9-FE-87-B3-25" />
           </set>
