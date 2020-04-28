@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieve information about cache usage for the query." />
+      <item value="Whether any error occurred during query compilation. Used for query lifetime hook" />
+      <item value="do the authorization check" />
+      <item value="Initialize the transaction manager. This must be done before analyze is called" />
+      <item value="save some info for webUI for use after plan is freed" />
       <item value="command should be redacted to avoid to logging sensitive data" />
       <item value="This enables substitution using syntax like ${var} ${system:var} and ${env:var}." />
       <item value="// Transaction manager used for the query. This will be set at compile time based on // either initTxnMgr or from the SessionState, in that order." />
@@ -46,16 +51,11 @@
       <item value="compile internal will automatically reset the perf logger" />
       <item value="Command Processor Response" />
       <item value="Response" />
-      <item value="Processor" />
-      <item value="Internal" />
-      <item value="Here we want to encode the error in machine readable way (e.g. JSON) * Ideally, errorCode would always be set to a canonical error defined in ErrorMsg. * In practice that is rarely the case, so the messy logic below tries to tease * out canonical error code if it can. Exclude stack trace from output when * the error is a specific/expected one. * It's written to stdout for backward compatibility (WebHCat consumes it)" />
-      <item value="Enables to use re-execution logics" />
-      <item value="Let Driver strip comments using sql parser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
