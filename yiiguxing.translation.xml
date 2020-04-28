@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Options Processor" />
+      <item value="Operation processor of the CLI invocation" />
+      <item value="materialized" />
+      <item value="to" />
       <item value="Command line prompt configuration value. Other hiveconf can be used in this configuration value. \n&quot; + &quot;Variable substitution will only be invoked at the Hive CLI startup" />
       <item value="default" />
       <item value="prompt" />
@@ -47,15 +51,11 @@
       <item value="Try qualifying with current db name for permanent functions" />
       <item value="First try without qualifiers - would resolve builtin/temp functions" />
       <item value="Missing over clause for function" />
-      <item value="Looks up the function name in the registry. If enabled, will attempt to search the metastore * for the function." />
-      <item value="Operator argument type mismatch" />
-      <item value="Function argument type mismatch" />
-      <item value="expression Tree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
