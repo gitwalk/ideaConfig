@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sql" />
       <item value="take a look to see if it is escaped" />
       <item value="Whether to include the current database in the Hive prompt" />
       <item value="Options Processor" />
@@ -50,12 +51,11 @@
       <item value="Both UDF and UDAF functions can imply order for analytical functions" />
       <item value="Validate the function name" />
       <item value="SHOW FUNCTIONS is deprecated, please use SHOW FUNCTIONS LIKE instead." />
-      <item value="Try qualifying with current db name for permanent functions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
