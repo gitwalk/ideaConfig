@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="initialize FetchTask right here" />
       <item value="if any filters are present in the join tree, push them on top of the // table" />
+      <item value="if there is only one destination in Query try to push where predicates * as Join conditions" />
+      <item value="initialize FetchTask right here" />
       <item value="Recurse over all the source tables" />
       <item value="Recurse over the subqueries to fill the subquery part of the plan" />
       <item value="Some initial checks for a query to see if we can look this query up in the results cache." />
@@ -50,12 +51,11 @@
       <item value="Resets taskID counter if true" />
       <item value="deferClose indicates if the close/destroy should be deferred when the process has been // interrupted, it should be set to true if the compile is called within another method like // runInternal, which defers the close to the called in that method." />
       <item value="sql" />
-      <item value="take a look to see if it is escaped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
