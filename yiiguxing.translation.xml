@@ -1,6 +1,37 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize FetchTask right here" />
+      <item value="if any filters are present in the join tree, push them on top of the // table" />
+      <item value="Recurse over all the source tables" />
+      <item value="Recurse over the subqueries to fill the subquery part of the plan" />
+      <item value="Some initial checks for a query to see if we can look this query up in the results cache." />
+      <item value="If we use CBO and we may apply masking/filtering policies, we create a copy of the ast. // The reason is that the generation of the operator tree may modify the initial ast, // but if we need to parse for a second time, we would like to parse the unmodified ast" />
+      <item value="Check query results cache. // If no masking/filtering required, then we can check the cache now, before // generating the operator tree and going through CBO. // Otherwise we have to wait until after the masking/filtering step" />
+      <item value="replace each of the position alias in ORDERBY with the actual column name, // if cbo is enabled, orderby position will be processed in genPlan" />
+      <item value="Gen OP Tree from resolved Parse Tree" />
+      <item value="fetch all the hints in qb" />
+      <item value="If we use CBO and we may apply masking/filtering policies, we create a copy of the ast. // The reason is that the generation of the operator tree may modify the initial ast, // but if we need to parse for a second time, we would like to parse the unmodified ast." />
+      <item value="Check query results cache. // If no masking/filtering required, then we can check the cache now, before // generating the operator tree and going through CBO. // Otherwise we have to wait until after the masking/filtering step." />
+      <item value="Check the 1st-level children and do simple semantic checks: 1) CTLT and * CTAS should not coexists. 2) CTLT or CTAS should not coexists with column * list (target table schema). 3) CTAS does not support partitioning (for * now)." />
+      <item value="if it is not CTAS, we don't need to go further and just return" />
+      <item value="step processPositionAlias out of genResolvedParseTree" />
+      <item value="analyze and process the position alias" />
+      <item value="replace each of the position alias in GROUPBY with the actual column name" />
+      <item value="change the location of position alias process here" />
+      <item value="Generate Resolved Parse tree from syntax tree" />
+      <item value="put accessed columns to readEntity" />
+      <item value="Generate column access stats if required - wait until column pruning" />
+      <item value="set ColumnAccessInfo for view column authorization" />
+      <item value="Perform Logical optimization" />
+      <item value="Generate table access stats if required" />
+      <item value="Take care of view creation" />
+      <item value="Generate Parse Context for Optimizer &amp; Physical compiler" />
+      <item value="Deduce Resultset Schema" />
+      <item value="gen Resolved Parse Tree" />
+      <item value="Resolved Parse Tree" />
+      <item value="gen" />
+      <item value="analyze create table command" />
       <item value="Assumes one instance of this + single-threaded compilation for each query" />
       <item value="allow partial partition specification for nonscan since noscan is fast." />
       <item value="validate the plan" />
@@ -20,43 +51,12 @@
       <item value="deferClose indicates if the close/destroy should be deferred when the process has been // interrupted, it should be set to true if the compile is called within another method like // runInternal, which defers the close to the called in that method." />
       <item value="sql" />
       <item value="take a look to see if it is escaped" />
-      <item value="Whether to include the current database in the Hive prompt" />
-      <item value="Options Processor" />
-      <item value="Operation processor of the CLI invocation" />
-      <item value="materialized" />
-      <item value="to" />
-      <item value="Command line prompt configuration value. Other hiveconf can be used in this configuration value. \n&quot; + &quot;Variable substitution will only be invoked at the Hive CLI startup" />
-      <item value="default" />
-      <item value="prompt" />
-      <item value="// Remember all threads that were running at the time we started line processing. // Hook up the custom Ctrl+C handler while processing this line" />
-      <item value="hive Variable Source" />
-      <item value="Compile a new query, but potentially reset taskID counter. Not resetting task counter * is useful for generating re-entrant QL queries." />
-      <item value="/*It's imperative that {@code acquireLocks()} is called for all commands so that HiveTxnManager can transition its state machine correctly*/" />
-      <item value="the sinks and DDL cannot coexist at this time; but if they could we would // need to make sure we don't get two write IDs for the same table" />
-      <item value="it's possible to have &gt; 1 FileSink writing to the same table/partition * e.g. Merge stmt, multi-insert stmt when mixing DP and SP writes * Insert ... Select ... Union All Select ... using * {@link org.apache.hadoop.hive.ql.exec.AbstractFileMergeOperator#UNION_SUDBIR_PREFIX} */" />
-      <item value="//sorting makes tests easier to write since file names and ROW__IDs depend on statementId //so this makes (file name -&gt; data) mapping stable" />
-      <item value="Set the table write id in all of the acid file sinks" />
-      <item value="Acquire read and write locks needed by the statement. The list of objects to be locked are * obtained from the inputs and outputs populated by the compiler. Locking strategy depends on * HiveTxnManager and HiveLockManager configured" />
-      <item value="the sinks and DDL cannot coexist at this time; but if they could we would // need to make sure we don't get two write IDs for the same table." />
-      <item value="does not add back up task here, because back up task should be the same // type of the original task" />
-      <item value="require" />
-      <item value="Lock operations themselves don't require the lock." />
-      <item value="Concurrency mode is disabled, not creating a lock manager" />
-      <item value="Assumes the query has already been compiled" />
-      <item value="the release here will do nothing because there is no lock" />
-      <item value="since set autocommit starts an implicit txn, close it" />
-      <item value="Valid" />
-      <item value="Lock acquisition should be moved before analyze, this is a bit hackish." />
-      <item value="Currently, we acquire a snapshot, we compile the query wrt that snapshot, // and then, we acquire locks. If snapshot is still valid, we continue as usual. // But if snapshot is not valid, we recompile the query." />
-      <item value="Snapshot was outdated when locks were acquired, hence regenerate context, // txn list and retry" />
-      <item value="Checks whether txn list has been invalidated while planning the query. // This would happen if query requires exclusive/semi-shared lock, and there // has been a committed transaction on the table over which the lock is // required." />
-      <item value="Trigger query hooks after query completes its execution." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="373" />
-        <entry key="DUTCH" value="2" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
+        <entry key="DUTCH" value="6" />
       </map>
     </option>
   </component>
