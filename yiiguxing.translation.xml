@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optimizer" />
+      <item value="resultSchema will be null if // (1) cbo is disabled; // (2) or cbo is enabled with AST return path (whether succeeded or not, // resultSchema will be re-initialized) // It will only be not null if cbo is enabled with new return path and it // succeeds." />
+      <item value="Check query results cache // In the case that row or column masking/filtering was required, we do not support caching. // TODO: Enable caching for queries with masking/filtering" />
+      <item value="Generate column access stats if required - wait until column pruning // takes place during optimization" />
+      <item value="Generate Parse Context for Optimizer &amp; Physical compiler" />
+      <item value="Set the semijoin hints in parse context" />
+      <item value="Perform Logical optimization" />
       <item value="if any filters are present in the join tree, push them on top of the // table" />
       <item value="if there is only one destination in Query try to push where predicates * as Join conditions" />
       <item value="initialize FetchTask right here" />
@@ -24,10 +31,8 @@
       <item value="put accessed columns to readEntity" />
       <item value="Generate column access stats if required - wait until column pruning" />
       <item value="set ColumnAccessInfo for view column authorization" />
-      <item value="Perform Logical optimization" />
       <item value="Generate table access stats if required" />
       <item value="Take care of view creation" />
-      <item value="Generate Parse Context for Optimizer &amp; Physical compiler" />
       <item value="Deduce Resultset Schema" />
       <item value="gen Resolved Parse Tree" />
       <item value="Resolved Parse Tree" />
@@ -46,16 +51,11 @@
       <item value="Initialize the transaction manager. This must be done before analyze is called" />
       <item value="save some info for webUI for use after plan is freed" />
       <item value="command should be redacted to avoid to logging sensitive data" />
-      <item value="This enables substitution using syntax like ${var} ${system:var} and ${env:var}." />
-      <item value="// Transaction manager used for the query. This will be set at compile time based on // either initTxnMgr or from the SessionState, in that order." />
-      <item value="Resets taskID counter if true" />
-      <item value="deferClose indicates if the close/destroy should be deferred when the process has been // interrupted, it should be set to true if the compile is called within another method like // runInternal, which defers the close to the called in that method." />
-      <item value="sql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
