@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Based on the plan outputs, find out the target table name and column names" />
       <item value="Optimizer" />
       <item value="resultSchema will be null if // (1) cbo is disabled; // (2) or cbo is enabled with AST return path (whether succeeded or not, // resultSchema will be re-initialized) // It will only be not null if cbo is enabled with new return path and it // succeeds." />
       <item value="Check query results cache // In the case that row or column masking/filtering was required, we do not support caching. // TODO: Enable caching for queries with masking/filtering" />
@@ -50,12 +51,11 @@
       <item value="do the authorization check" />
       <item value="Initialize the transaction manager. This must be done before analyze is called" />
       <item value="save some info for webUI for use after plan is freed" />
-      <item value="command should be redacted to avoid to logging sensitive data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
