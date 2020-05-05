@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Find whether the current query is a logical explain query" />
       <item value="Either list of columns or a custom serializer should be specified" />
       <item value="gen File Sink Plan" />
       <item value="Go over all the destination tables" />
@@ -50,12 +51,11 @@
       <item value="Check the 1st-level children and do simple semantic checks: 1) CTLT and * CTAS should not coexists. 2) CTLT or CTAS should not coexists with column * list (target table schema). 3) CTAS does not support partitioning (for * now)." />
       <item value="if it is not CTAS, we don't need to go further and just return" />
       <item value="step processPositionAlias out of genResolvedParseTree" />
-      <item value="analyze and process the position alias" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
