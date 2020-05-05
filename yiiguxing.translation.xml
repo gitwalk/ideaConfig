@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Either list of columns or a custom serializer should be specified" />
+      <item value="gen File Sink Plan" />
+      <item value="Go over all the destination tables" />
+      <item value="Constructs a standard group by plan if: // There is no other subquery with the same group by/distinct keys or // (There are no aggregations in a representative query for the group and // There is no group by in that representative query) or // The data is skewed or // The conf variable used to control combining group bys into a single reducer is false" />
+      <item value="There is no other subquery with the same group by/distinct keys or" />
+      <item value="Constructs a standard group by plan if:" />
+      <item value="Iterate over each group of subqueries with the same group by/distinct keys" />
+      <item value="If we can put multiple group bys in a single reducer, determine suitable groups of // expressions, otherwise treat all the expressions as a single group" />
+      <item value="partitioned table functions" />
+      <item value="After processing subqueries and source tables, process" />
+      <item value="Recurse over all the source tables" />
+      <item value="Recurse over the subqueries to fill the subquery part of the plan" />
+      <item value="First generate all the opInfos for the elements in the from clause" />
       <item value="then" />
       <item value="Check for dynamic partitions" />
       <item value="Method invoked when the given thread terminates due to the * given uncaught exception. * &lt;p&gt;Any exception thrown by this method will be ignored by the * Java Virtual Machine. * @param t the thread * @param e the exception */" />
@@ -26,8 +39,6 @@
       <item value="if any filters are present in the join tree, push them on top of the // table" />
       <item value="if there is only one destination in Query try to push where predicates * as Join conditions" />
       <item value="initialize FetchTask right here" />
-      <item value="Recurse over all the source tables" />
-      <item value="Recurse over the subqueries to fill the subquery part of the plan" />
       <item value="Some initial checks for a query to see if we can look this query up in the results cache." />
       <item value="If we use CBO and we may apply masking/filtering policies, we create a copy of the ast. // The reason is that the generation of the operator tree may modify the initial ast, // but if we need to parse for a second time, we would like to parse the unmodified ast" />
       <item value="Check query results cache. // If no masking/filtering required, then we can check the cache now, before // generating the operator tree and going through CBO. // Otherwise we have to wait until after the masking/filtering step" />
@@ -40,22 +51,11 @@
       <item value="if it is not CTAS, we don't need to go further and just return" />
       <item value="step processPositionAlias out of genResolvedParseTree" />
       <item value="analyze and process the position alias" />
-      <item value="replace each of the position alias in GROUPBY with the actual column name" />
-      <item value="change the location of position alias process here" />
-      <item value="Generate Resolved Parse tree from syntax tree" />
-      <item value="put accessed columns to readEntity" />
-      <item value="Generate column access stats if required - wait until column pruning" />
-      <item value="set ColumnAccessInfo for view column authorization" />
-      <item value="Generate table access stats if required" />
-      <item value="Take care of view creation" />
-      <item value="Deduce Resultset Schema" />
-      <item value="gen Resolved Parse Tree" />
-      <item value="Resolved Parse Tree" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="442" />
+        <entry key="ENGLISH" value="443" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
