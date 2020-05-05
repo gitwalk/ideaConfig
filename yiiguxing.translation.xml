@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A mapping from a tableName to a table object in metastore." />
+      <item value="used to capture view to SQ conversions. This is used to check for * recursive CTE invocations" />
+      <item value="Keep track of view alias to view name and read entity" />
+      <item value="We have to materialize the table alias list since we might // modify it in the middle for view rewrite." />
+      <item value="Go over the tables and populate the related structures" />
+      <item value="Go through each target column, generate the lineage edges" />
+      <item value="Dynamic partition keys should be added to field schemas" />
       <item value="Based on the plan outputs, find out the target table name and column names" />
       <item value="Optimizer" />
       <item value="resultSchema will be null if // (1) cbo is disabled; // (2) or cbo is enabled with AST return path (whether succeeded or not, // resultSchema will be re-initialized) // It will only be not null if cbo is enabled with new return path and it // succeeds." />
@@ -44,18 +51,11 @@
       <item value="validate the plan" />
       <item value="A mapping from a tableName to a table object in metastore" />
       <item value="for managed tables, make sure the file formats match" />
-      <item value="make sure the arguments make sense" />
-      <item value="here" />
-      <item value="Retrieve information about cache usage for the query." />
-      <item value="Whether any error occurred during query compilation. Used for query lifetime hook" />
-      <item value="do the authorization check" />
-      <item value="Initialize the transaction manager. This must be done before analyze is called" />
-      <item value="save some info for webUI for use after plan is freed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="422" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
