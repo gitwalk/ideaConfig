@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method invoked when the given thread terminates due to the * given uncaught exception. * &lt;p&gt;Any exception thrown by this method will be ignored by the * Java Virtual Machine. * @param t the thread * @param e the exception */" />
       <item value="When init(true) combine with genResolvedParseTree, it will generate Resolved Parse tree from syntax tree //ReadEntity created under these conditions should be all relevant to the syntax tree even the ones without parents //set mergeIsDirect to true here" />
       <item value="Implementation of the semantic analyzer. It generates the query plan. * There are other specific semantic analyzers for some hive operations such as * DDLSemanticAnalyzer for ddl operations." />
       <item value="cascade only occurs with partitioned table" />
@@ -50,12 +51,11 @@
       <item value="Resolved Parse Tree" />
       <item value="gen" />
       <item value="analyze create table command" />
-      <item value="Assumes one instance of this + single-threaded compilation for each query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="427" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
