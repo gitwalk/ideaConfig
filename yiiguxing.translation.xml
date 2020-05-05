@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implementation of the semantic analyzer. It generates the query plan. * There are other specific semantic analyzers for some hive operations such as * DDLSemanticAnalyzer for ddl operations." />
+      <item value="cascade only occurs with partitioned table" />
       <item value="Generate normalized name for a given target column." />
       <item value="A mapping from a tableName to a table object in metastore." />
       <item value="used to capture view to SQ conversions. This is used to check for * recursive CTE invocations" />
@@ -49,13 +51,11 @@
       <item value="analyze create table command" />
       <item value="Assumes one instance of this + single-threaded compilation for each query" />
       <item value="allow partial partition specification for nonscan since noscan is fast." />
-      <item value="validate the plan" />
-      <item value="A mapping from a tableName to a table object in metastore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
