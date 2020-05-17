@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query." />
+      <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query" />
+      <item value="A map from operator to the conditions strings." />
       <item value="ALLSCOPE EXCEPT COLUMN" />
       <item value="Generate normalized name for a given target column" />
       <item value="Unable to fetch table" />
@@ -48,14 +51,11 @@
       <item value="If we use CBO and we may apply masking/filtering policies, we create a copy of the ast. // The reason is that the generation of the operator tree may modify the initial ast, // but if we need to parse for a second time, we would like to parse the unmodified ast" />
       <item value="Check query results cache. // If no masking/filtering required, then we can check the cache now, before // generating the operator tree and going through CBO. // Otherwise we have to wait until after the masking/filtering step" />
       <item value="replace each of the position alias in ORDERBY with the actual column name, // if cbo is enabled, orderby position will be processed in genPlan" />
-      <item value="Gen OP Tree from resolved Parse Tree" />
-      <item value="fetch all the hints in qb" />
-      <item value="If we use CBO and we may apply masking/filtering policies, we create a copy of the ast. // The reason is that the generation of the operator tree may modify the initial ast, // but if we need to parse for a second time, we would like to parse the unmodified ast." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
