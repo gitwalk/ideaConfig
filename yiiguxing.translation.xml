@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maybe Event Handler Constructor" />
+      <item value="Spline Query Execution Listener" />
       <item value="Dispatcher" />
       <item value="qualifier" />
       <item value="HDFS Path Qualifier" />
@@ -49,13 +51,11 @@
       <item value="Keep track of view alias to view name and read entity" />
       <item value="We have to materialize the table alias list since we might // modify it in the middle for view rewrite." />
       <item value="Go over the tables and populate the related structures" />
-      <item value="Go through each target column, generate the lineage edges" />
-      <item value="Dynamic partition keys should be added to field schemas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
