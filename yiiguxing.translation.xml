@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Issue Cancel" />
+      <item value="Issue Closed" />
+      <item value="Issue Create" />
+      <item value="Trade Canceled" />
+      <item value="Trade Completed" />
+      <item value="Balance Payment Fulfilled" />
+      <item value="Shipment Received" />
+      <item value="Shipment" />
+      <item value="Shipment Delivered" />
+      <item value="Advance Payment Fulfilled" />
       <item value="Turbine Run Data" />
       <item value="Identify and stop the process that's listening on port 8761 or configure this application to listen on another port." />
       <item value="destination" />
@@ -41,21 +51,11 @@
       <item value="Dynamic partition keys should be added to field schemas" />
       <item value="Based on the plan outputs, find out the target table name and column names" />
       <item value="Optimizer" />
-      <item value="resultSchema will be null if // (1) cbo is disabled; // (2) or cbo is enabled with AST return path (whether succeeded or not, // resultSchema will be re-initialized) // It will only be not null if cbo is enabled with new return path and it // succeeds." />
-      <item value="Check query results cache // In the case that row or column masking/filtering was required, we do not support caching. // TODO: Enable caching for queries with masking/filtering" />
-      <item value="Generate column access stats if required - wait until column pruning // takes place during optimization" />
-      <item value="Generate Parse Context for Optimizer &amp; Physical compiler" />
-      <item value="Set the semijoin hints in parse context" />
-      <item value="Perform Logical optimization" />
-      <item value="if any filters are present in the join tree, push them on top of the // table" />
-      <item value="if there is only one destination in Query try to push where predicates * as Join conditions" />
-      <item value="initialize FetchTask right here" />
-      <item value="Some initial checks for a query to see if we can look this query up in the results cache." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
