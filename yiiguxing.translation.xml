@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spline Configurer" />
       <item value="exception" />
       <item value="Strategy for dealing with writes in ignore mode that doesn't provide info whether the file was actually written" />
       <item value="Identify and stop the process that's listening on port 8761 or configure this application to listen on another port." />
@@ -50,12 +51,12 @@
       <item value="Perform Logical optimization" />
       <item value="if any filters are present in the join tree, push them on top of the // table" />
       <item value="if there is only one destination in Query try to push where predicates * as Join conditions" />
-      <item value="initialize FetchTask right here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
+        <entry key="CHINESE" value="455" />
         <entry key="ENGLISH" value="455" />
+        <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
     </option>
