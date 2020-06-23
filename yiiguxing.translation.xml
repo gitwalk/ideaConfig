@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MIN PARAMS LENGTH" />
+      <item value="CPS ORDER REPORT PERIOD" />
       <item value="manual" />
       <item value="settle" />
       <item value="spam" />
@@ -49,13 +51,11 @@
       <item value="There is no other subquery with the same group by/distinct keys or" />
       <item value="Constructs a standard group by plan if:" />
       <item value="Iterate over each group of subqueries with the same group by/distinct keys" />
-      <item value="If we can put multiple group bys in a single reducer, determine suitable groups of // expressions, otherwise treat all the expressions as a single group" />
-      <item value="partitioned table functions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="488" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
