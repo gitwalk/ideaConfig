@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Promotion" />
+      <item value="Promotion" />
       <item value="Manual" />
       <item value="diamond" />
       <item value="Broker" />
@@ -49,13 +51,11 @@
       <item value="After processing subqueries and source tables, process" />
       <item value="Recurse over all the source tables" />
       <item value="Recurse over the subqueries to fill the subquery part of the plan" />
-      <item value="First generate all the opInfos for the elements in the from clause" />
-      <item value="then" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="482" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
