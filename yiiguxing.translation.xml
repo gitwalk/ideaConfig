@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trade Created" />
+      <item value="Advance Payment Fulfilled" />
       <item value="MIN PARAMS LENGTH" />
       <item value="CPS ORDER REPORT PERIOD" />
       <item value="manual" />
@@ -49,13 +51,11 @@
       <item value="Go over all the destination tables" />
       <item value="Constructs a standard group by plan if: // There is no other subquery with the same group by/distinct keys or // (There are no aggregations in a representative query for the group and // There is no group by in that representative query) or // The data is skewed or // The conf variable used to control combining group bys into a single reducer is false" />
       <item value="There is no other subquery with the same group by/distinct keys or" />
-      <item value="Constructs a standard group by plan if:" />
-      <item value="Iterate over each group of subqueries with the same group by/distinct keys" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
