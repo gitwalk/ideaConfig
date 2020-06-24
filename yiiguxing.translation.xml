@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this function creates tables in a way that is hive dependent, therefore hive must be enabled for this to work" />
+      <item value="When harvest method is called with an empty data frame&quot; should &quot;return a data lineage with one node." />
       <item value="request Compression Supported" />
       <item value="attribute Converter" />
       <item value="create Operation Builders Recursively" />
@@ -49,13 +51,11 @@
       <item value="First generate all the opInfos for the elements in the from clause" />
       <item value="then" />
       <item value="Check for dynamic partitions" />
-      <item value="Method invoked when the given thread terminates due to the * given uncaught exception. * &lt;p&gt;Any exception thrown by this method will be ignored by the * Java Virtual Machine. * @param t the thread * @param e the exception */" />
-      <item value="When init(true) combine with genResolvedParseTree, it will generate Resolved Parse tree from syntax tree //ReadEntity created under these conditions should be all relevant to the syntax tree even the ones without parents //set mergeIsDirect to true here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="475" />
-        <entry key="ENGLISH" value="476" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
