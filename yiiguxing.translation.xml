@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a" />
+      <item value="aggregate Expressions" />
+      <item value="type Hint Field Name" />
+      <item value="Aggregation" />
+      <item value="Projection" />
       <item value="if the specified text is not valid JSON" />
       <item value="this function creates tables in a way that is hive dependent, therefore hive must be enabled for this to work" />
       <item value="When harvest method is called with an empty data frame&quot; should &quot;return a data lineage with one node." />
@@ -46,16 +51,11 @@
       <item value="Iterate over each group of subqueries with the same group by/distinct keys" />
       <item value="If we can put multiple group bys in a single reducer, determine suitable groups of // expressions, otherwise treat all the expressions as a single group" />
       <item value="partitioned table functions" />
-      <item value="After processing subqueries and source tables, process" />
-      <item value="Recurse over all the source tables" />
-      <item value="Recurse over the subqueries to fill the subquery part of the plan" />
-      <item value="First generate all the opInfos for the elements in the from clause" />
-      <item value="then" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
