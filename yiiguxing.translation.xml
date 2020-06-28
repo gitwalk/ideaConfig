@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refine" />
       <item value="Trade Contract Participant" />
       <item value="SETTLE" />
       <item value="periodically" />
@@ -50,12 +51,11 @@
       <item value="ALLSCOPE EXCEPT COLUMN" />
       <item value="Generate normalized name for a given target column" />
       <item value="Unable to fetch table" />
-      <item value="Write the status of tables to a file." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
