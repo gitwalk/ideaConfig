@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trade Contract Participant" />
+      <item value="SETTLE" />
       <item value="periodically" />
       <item value="Channel" />
       <item value="Encode" />
@@ -49,13 +51,11 @@
       <item value="Generate normalized name for a given target column" />
       <item value="Unable to fetch table" />
       <item value="Write the status of tables to a file." />
-      <item value="Find whether the current query is a logical explain query" />
-      <item value="Either list of columns or a custom serializer should be specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
