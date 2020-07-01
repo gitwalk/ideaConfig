@@ -6,6 +6,10 @@
           <option name="url" value="http://git.dev.tencent.com" />
           <option name="userName" value="twalk" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com" />
+          <option name="userName" value="zehua.tzh@alibaba-inc.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
