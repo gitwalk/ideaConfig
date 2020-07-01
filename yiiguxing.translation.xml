@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="match by tags code or filter bit map which is calculated when message received * and stored in consume queue ext." />
+      <item value="extend unit of consume queue" />
+      <item value="tags Code" />
+      <item value="match by message content which are stored in commit log. * &lt;br&gt;{@code msgBuffer} and {@code properties} are not all null.If invoked in store, * {@code properties} is null;If invoked in {@code PullRequestHoldService}, {@code msgBuffer} is null." />
       <item value="refine" />
       <item value="Trade Contract Participant" />
       <item value="SETTLE" />
@@ -47,15 +51,11 @@
       <item value="destination" />
       <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query." />
       <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query" />
-      <item value="A map from operator to the conditions strings." />
-      <item value="ALLSCOPE EXCEPT COLUMN" />
-      <item value="Generate normalized name for a given target column" />
-      <item value="Unable to fetch table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
