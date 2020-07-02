@@ -1,37 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="match by tags code or filter bit map which is calculated when message received * and stored in consume queue ext." />
-      <item value="extend unit of consume queue" />
-      <item value="tags Code" />
-      <item value="match by message content which are stored in commit log. * &lt;br&gt;{@code msgBuffer} and {@code properties} are not all null.If invoked in store, * {@code properties} is null;If invoked in {@code PullRequestHoldService}, {@code msgBuffer} is null." />
-      <item value="refine" />
-      <item value="Trade Contract Participant" />
-      <item value="SETTLE" />
-      <item value="periodically" />
-      <item value="Channel" />
-      <item value="Encode" />
-      <item value="Remoting Client" />
-      <item value="INVALID FOR AFFILIATE FLAG" />
-      <item value="Trade Created" />
-      <item value="Advance Payment Fulfilled" />
-      <item value="MIN PARAMS LENGTH" />
-      <item value="CPS ORDER REPORT PERIOD" />
-      <item value="manual" />
-      <item value="settle" />
-      <item value="spam" />
-      <item value="RANDOM" />
-      <item value="add Promotion" />
-      <item value="Promotion" />
-      <item value="Manual" />
-      <item value="diamond" />
-      <item value="Broker" />
-      <item value="ORDER SPAM INVALID CLICK" />
-      <item value="INCREMENTAL" />
-      <item value="Facade" />
-      <item value="Cancelled" />
-      <item value="Paid" />
-      <item value="Subject Matter Term Detail" />
+      <item value="The SubqueryAlias node keeps track of the qualifier using the information in this structure" />
+      <item value="Model Constants" />
+      <item value="a" />
+      <item value="aggregate Expressions" />
+      <item value="type Hint Field Name" />
+      <item value="Aggregation" />
+      <item value="Projection" />
+      <item value="if the specified text is not valid JSON" />
+      <item value="this function creates tables in a way that is hive dependent, therefore hive must be enabled for this to work" />
+      <item value="When harvest method is called with an empty data frame&quot; should &quot;return a data lineage with one node." />
+      <item value="request Compression Supported" />
+      <item value="attribute Converter" />
+      <item value="create Operation Builders Recursively" />
+      <item value="This is implemented as an" />
+      <item value="explicitly" />
+      <item value="Metrics" />
+      <item value="write Node Builder" />
+      <item value="executed Plan Opt" />
       <item value="maybe Event Handler Constructor" />
       <item value="Spline Query Execution Listener" />
       <item value="Dispatcher" />
@@ -51,11 +38,24 @@
       <item value="destination" />
       <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query." />
       <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query" />
+      <item value="A map from operator to the conditions strings." />
+      <item value="ALLSCOPE EXCEPT COLUMN" />
+      <item value="Generate normalized name for a given target column" />
+      <item value="Unable to fetch table" />
+      <item value="Write the status of tables to a file." />
+      <item value="Find whether the current query is a logical explain query" />
+      <item value="Either list of columns or a custom serializer should be specified" />
+      <item value="gen File Sink Plan" />
+      <item value="Go over all the destination tables" />
+      <item value="Constructs a standard group by plan if: // There is no other subquery with the same group by/distinct keys or // (There are no aggregations in a representative query for the group and // There is no group by in that representative query) or // The data is skewed or // The conf variable used to control combining group bys into a single reducer is false" />
+      <item value="There is no other subquery with the same group by/distinct keys or" />
+      <item value="Constructs a standard group by plan if:" />
+      <item value="Iterate over each group of subqueries with the same group by/distinct keys" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
