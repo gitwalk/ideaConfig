@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a new row for each element in the given array or map column" />
+      <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty." />
       <item value="Union can only be performed on tables with the compatible column types" />
       <item value="projections" />
       <item value="a number of projections" />
@@ -49,13 +51,11 @@
       <item value="maybe Event Handler Constructor" />
       <item value="Spline Query Execution Listener" />
       <item value="Dispatcher" />
-      <item value="qualifier" />
-      <item value="HDFS Path Qualifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="510" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
