@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Image None Operate Data Handler" />
+      <item value="image Matting With Score" />
+      <item value="Image Matting Quality Data Handler" />
+      <item value="Image Matting Data Handler" />
+      <item value="Image Compose" />
       <item value="matting" />
       <item value="Image Material Item M" />
       <item value="Tair Client Interface" />
@@ -46,16 +51,11 @@
       <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty" />
       <item value="similar" />
       <item value="Applies" />
-      <item value="This node is inserted at the top of a subquery when it is optimized. This makes sure we can * recognize a subquery as such, and it allows us to write subquery aware transformations." />
-      <item value="A class representing a Json {@code null} value. *" />
-      <item value="The output schema of the Generator" />
-      <item value="new" />
-      <item value="java" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="535" />
-        <entry key="ENGLISH" value="536" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
