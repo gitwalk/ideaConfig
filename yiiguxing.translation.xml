@@ -1,7 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Image Compose Timer" />
+      <item value="Image Timer" />
+      <item value="Clean Direct Memory Timer" />
+      <item value="Constants" />
+      <item value="Diamond" />
+      <item value="I Cracker Services Locator" />
       <item value="Matting" />
+      <item value="Image Erase Watermark Data Handler" />
+      <item value="Image Compose Data Handler" />
+      <item value="Image Border Remove Data Handler" />
       <item value="Water Mask" />
       <item value="Water" />
       <item value="Erase" />
@@ -42,20 +51,12 @@
       <item value="The SubqueryAlias node keeps track of the qualifier using the information in this structure" />
       <item value="Model Constants" />
       <item value="a" />
-      <item value="aggregate Expressions" />
-      <item value="type Hint Field Name" />
-      <item value="Aggregation" />
-      <item value="Projection" />
-      <item value="if the specified text is not valid JSON" />
-      <item value="this function creates tables in a way that is hive dependent, therefore hive must be enabled for this to work" />
-      <item value="When harvest method is called with an empty data frame&quot; should &quot;return a data lineage with one node." />
-      <item value="request Compression Supported" />
-      <item value="attribute Converter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
+        <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
