@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Material" />
+      <item value="aliwood" />
+      <item value="http://nhcil-open.alibaba-inc.com.vipserver/aliwood/genvideo/async" />
+      <item value="Video Meta Analyse Data Handler" />
       <item value="Image None Operate Data Handler" />
       <item value="image Matting With Score" />
       <item value="Image Matting Quality Data Handler" />
@@ -47,18 +51,16 @@
       <item value="Set Operation" />
       <item value="Append data to an existing table" />
       <item value="Aggregate" />
-      <item value="Qualifier for the attributes of generator(UDTF)" />
-      <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty" />
-      <item value="similar" />
-      <item value="Applies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="542" />
+        <entry key="ENGLISH" value="543" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="6" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
