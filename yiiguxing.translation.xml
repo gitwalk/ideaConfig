@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="matting" />
+      <item value="Image Material Item M" />
+      <item value="Tair Client Interface" />
       <item value="Image Compose Timer" />
       <item value="Image Timer" />
       <item value="Clean Direct Memory Timer" />
@@ -48,14 +51,11 @@
       <item value="The output schema of the Generator" />
       <item value="new" />
       <item value="java" />
-      <item value="The SubqueryAlias node keeps track of the qualifier using the information in this structure" />
-      <item value="Model Constants" />
-      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
