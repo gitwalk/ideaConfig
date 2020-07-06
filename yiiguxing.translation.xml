@@ -1,7 +1,37 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="match by tags code or filter bit map which is calculated when message received * and stored in consume queue ext." />
+      <item value="* Applies a [[Generator]] to a stream of input rows, combining the * output of each into a new stream of rows. This operation is similar to a `flatMap` in functional * programming with one important additional feature, which allows the input rows to be joined with * their output." />
+      <item value="this parameter starts as Nil and gets filled by the Optimizer. * It's used as an optimization for omitting data generation that will * be discarded next by a projection. * A common use case is when we explode(array(..)) and are interested * only in the exploded data and not in the original array. before this * optimization the array got duplicated for each of its elements, * causing O(n^^2) memory consumption. (see [SPARK-21657])" />
+      <item value="Creates a new row for each element in the given array or map column" />
+      <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty." />
+      <item value="Union can only be performed on tables with the compatible column types" />
+      <item value="projections" />
+      <item value="a number of projections" />
+      <item value="Apply a number of projections to every input row, hence we will get multiple output rows for * an input row." />
+      <item value="drop Duplicates" />
+      <item value="A logical plan for `dropDuplicates`" />
+      <item value="A relation with one row. This is used in &quot;SELECT ...&quot; without a from clause." />
+      <item value="Returns a new logical plan that dedups input rows." />
+      <item value="dedups" />
+      <item value="Sample" />
+      <item value="Sample the dataset" />
+      <item value="Aliased subquery" />
+      <item value="which" />
+      <item value="Expand" />
+      <item value="Factory for constructing new `Union` nodes." />
+      <item value="Set Operation" />
+      <item value="Append data to an existing table" />
+      <item value="Aggregate" />
+      <item value="Qualifier for the attributes of generator(UDTF)" />
+      <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty" />
+      <item value="similar" />
+      <item value="Applies" />
+      <item value="This node is inserted at the top of a subquery when it is optimized. This makes sure we can * recognize a subquery as such, and it allows us to write subquery aware transformations." />
+      <item value="A class representing a Json {@code null} value. *" />
+      <item value="The output schema of the Generator" />
+      <item value="new" />
+      <item value="java" />
       <item value="The SubqueryAlias node keeps track of the qualifier using the information in this structure" />
       <item value="Model Constants" />
       <item value="a" />
@@ -21,41 +51,11 @@
       <item value="write Node Builder" />
       <item value="executed Plan Opt" />
       <item value="maybe Event Handler Constructor" />
-      <item value="Spline Query Execution Listener" />
-      <item value="Dispatcher" />
-      <item value="qualifier" />
-      <item value="HDFS Path Qualifier" />
-      <item value="Spline Short Type Hints" />
-      <item value="Harvester Json Ser De" />
-      <item value="Default Ignored Write Detection Strategy" />
-      <item value="User Extra Metadata Provider" />
-      <item value="exception" />
-      <item value="extra" />
-      <item value="Harvester" />
-      <item value="dispatcher" />
-      <item value="Expression" />
-      <item value="Turbine Run Data" />
-      <item value="Identify and stop the process that's listening on port 8761 or configure this application to listen on another port." />
-      <item value="destination" />
-      <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query." />
-      <item value="A map from a final select operator id to the select operator * and the corresponding target table in case an insert into query" />
-      <item value="A map from operator to the conditions strings." />
-      <item value="ALLSCOPE EXCEPT COLUMN" />
-      <item value="Generate normalized name for a given target column" />
-      <item value="Unable to fetch table" />
-      <item value="Write the status of tables to a file." />
-      <item value="Find whether the current query is a logical explain query" />
-      <item value="Either list of columns or a custom serializer should be specified" />
-      <item value="gen File Sink Plan" />
-      <item value="Go over all the destination tables" />
-      <item value="Constructs a standard group by plan if: // There is no other subquery with the same group by/distinct keys or // (There are no aggregations in a representative query for the group and // There is no group by in that representative query) or // The data is skewed or // The conf variable used to control combining group bys into a single reducer is false" />
-      <item value="There is no other subquery with the same group by/distinct keys or" />
-      <item value="Constructs a standard group by plan if:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="6" />
       </map>
