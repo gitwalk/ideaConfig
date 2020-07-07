@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clean Embedded Dynamic Watermark Info" />
+      <item value="Material" />
       <item value="Matching" />
       <item value="banner" />
-      <item value="Material" />
       <item value="aliwood" />
       <item value="http://nhcil-open.alibaba-inc.com.vipserver/aliwood/genvideo/async" />
       <item value="Video Meta Analyse Data Handler" />
@@ -50,12 +51,11 @@
       <item value="which" />
       <item value="Expand" />
       <item value="Factory for constructing new `Union` nodes." />
-      <item value="Set Operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="545" />
+        <entry key="CHINESE" value="547" />
+        <entry key="ENGLISH" value="548" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
