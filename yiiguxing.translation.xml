@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Summarize" />
       <item value="resolution" />
       <item value="Frag" />
       <item value="Peak" />
@@ -50,12 +51,11 @@
       <item value="Returns a new logical plan that dedups input rows." />
       <item value="dedups" />
       <item value="Sample" />
-      <item value="Sample the dataset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="CHINESE" value="551" />
+        <entry key="ENGLISH" value="552" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
