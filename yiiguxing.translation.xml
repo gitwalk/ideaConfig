@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process" />
       <item value="Summarize" />
       <item value="resolution" />
       <item value="Frag" />
@@ -50,12 +51,11 @@
       <item value="A relation with one row. This is used in &quot;SELECT ...&quot; without a from clause." />
       <item value="Returns a new logical plan that dedups input rows." />
       <item value="dedups" />
-      <item value="Sample" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
