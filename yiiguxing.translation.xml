@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="updateProcessInstance completed task status // failure priority is higher than pause // if a task fails, other suspended tasks need to be reset kill" />
+      <item value="have Conditions After Node" />
+      <item value="is Conditions Task" />
+      <item value="node fails, retry first, and then execute the failure process" />
+      <item value="NEED FAULT TOLERANCE" />
+      <item value="recover Tolerance Fault Task List" />
+      <item value="node monitor thread complete" />
+      <item value="send warning email if process time out." />
+      <item value="submit and watch the tasks, until the work flow stop" />
+      <item value="find Valid Task List By Process Id" />
+      <item value="init task queue" />
+      <item value="is Task Complete" />
+      <item value="prepare process parameter" />
+      <item value="check to see if it's done" />
+      <item value="sub process complement data" />
       <item value="complement" />
       <item value="execute complement process" />
       <item value="generate process dag" />
@@ -36,26 +51,11 @@
       <item value="Dependent Relation" />
       <item value="dependent item" />
       <item value="definition json data structure" />
-      <item value="process instance to DAG" />
-      <item value="combining local and global parameters" />
-      <item value="procedure task" />
-      <item value="process has exited" />
-      <item value="waiting for the run to finish" />
-      <item value="parse Process Output Executor Service" />
-      <item value="parse process output" />
-      <item value="task specific execution logic" />
-      <item value="args" />
-      <item value="res the name of the resource that was uploaded" />
-      <item value="major jar" />
-      <item value="ack" />
-      <item value="Thrown to indicate that a method has been passed an illegal or * inappropriate argument." />
-      <item value="Use RETRYER to invoke the Callable before returning true" />
-      <item value="tell master that task is in executing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
-        <entry key="ENGLISH" value="615" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
