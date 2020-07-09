@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="combining local and global parameters" />
+      <item value="procedure task" />
+      <item value="process has exited" />
+      <item value="waiting for the run to finish" />
+      <item value="parse Process Output Executor Service" />
+      <item value="parse process output" />
+      <item value="task specific execution logic" />
+      <item value="args" />
+      <item value="res the name of the resource that was uploaded" />
+      <item value="major jar" />
+      <item value="ack" />
+      <item value="Thrown to indicate that a method has been passed an illegal or * inappropriate argument." />
       <item value="Use RETRYER to invoke the Callable before returning true" />
       <item value="tell master that task is in executing" />
       <item value="create Work Dir And User If Absent" />
@@ -39,29 +51,18 @@
       <item value="Image Compose" />
       <item value="matting" />
       <item value="Image Material Item M" />
-      <item value="Tair Client Interface" />
-      <item value="Image Compose Timer" />
-      <item value="Image Timer" />
-      <item value="Clean Direct Memory Timer" />
-      <item value="Constants" />
-      <item value="Diamond" />
-      <item value="I Cracker Services Locator" />
-      <item value="Image Erase Watermark Data Handler" />
-      <item value="Image Compose Data Handler" />
-      <item value="Image Border Remove Data Handler" />
-      <item value="Water Mask" />
-      <item value="Water" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="580" />
+        <entry key="ENGLISH" value="581" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="6" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
