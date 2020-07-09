@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complement" />
+      <item value="execute complement process" />
+      <item value="generate process dag" />
+      <item value="the task can be submit when all the depends nodes are forbidden or complete" />
+      <item value="master exec thread,split dag" />
+      <item value="parse the forbidden task nodes in process definition." />
+      <item value="get Forbidden Task Node Maps" />
+      <item value="generate flow node relation list by task node list;" />
+      <item value="no special designation start nodes" />
+      <item value="dest" />
+      <item value="dest Task Node List" />
+      <item value="dep Node Type" />
+      <item value="start Node Name List" />
+      <item value="process Definition Json" />
+      <item value="generate dag by start nodes and recovery nodes" />
+      <item value="generate Flow Node List" />
+      <item value="dest Flow Node List" />
+      <item value="2 run current tasks and the other tasks that depend on current tasks;" />
+      <item value="1 run current tasks and previous tasks" />
+      <item value="0 run current tasks only" />
+      <item value="generate task nodes needed by dag" />
+      <item value="inner dependency information" />
+      <item value="generate flow node relation list by task node list" />
+      <item value="key is node of destination" />
+      <item value="reversed edge set" />
+      <item value="edge map. key is node of origin;value is Map with key for destination node and value for edge" />
       <item value="Date Interval" />
       <item value="Dependent" />
       <item value="FORBIDDEN" />
@@ -25,42 +51,17 @@
       <item value="Thrown to indicate that a method has been passed an illegal or * inappropriate argument." />
       <item value="Use RETRYER to invoke the Callable before returning true" />
       <item value="tell master that task is in executing" />
-      <item value="create Work Dir And User If Absent" />
-      <item value="get Exec Local Path" />
-      <item value="Task Callback Service" />
-      <item value="add callback channel" />
-      <item value="retry count，default retry 3" />
-      <item value="build command accord executeContext" />
-      <item value="when task finish, ignore this task, there is no need to dispatch anymore" />
-      <item value="dispatch task" />
-      <item value="tenant code" />
-      <item value="master/worker task transport" />
-      <item value="Priority Blocking Queue" />
-      <item value="Task Priority Queue" />
-      <item value="date interval" />
-      <item value="Matting" />
-      <item value="icbu Promotion Matting" />
-      <item value="Consume Concurrently Status" />
-      <item value="process" />
-      <item value="Summarize" />
-      <item value="resolution" />
-      <item value="Frag" />
-      <item value="Peak" />
-      <item value="Scene Config" />
-      <item value="clean Embedded Dynamic Watermark Info" />
-      <item value="Material" />
-      <item value="Matching" />
-      <item value="banner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="590" />
-        <entry key="ENGLISH" value="591" />
-        <entry key="DANISH" value="1" />
+        <entry key="CHINESE" value="614" />
+        <entry key="ENGLISH" value="615" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="6" />
+        <entry key="KURDISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
