@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retry count，default retry 3" />
+      <item value="build command accord executeContext" />
+      <item value="when task finish, ignore this task, there is no need to dispatch anymore" />
+      <item value="dispatch task" />
+      <item value="tenant code" />
+      <item value="master/worker task transport" />
+      <item value="Priority Blocking Queue" />
+      <item value="Task Priority Queue" />
+      <item value="date interval" />
       <item value="Matting" />
       <item value="icbu Promotion Matting" />
       <item value="Consume Concurrently Status" />
@@ -42,23 +51,14 @@
       <item value="validate" />
       <item value="* Applies a [[Generator]] to a stream of input rows, combining the * output of each into a new stream of rows. This operation is similar to a `flatMap` in functional * programming with one important additional feature, which allows the input rows to be joined with * their output." />
       <item value="this parameter starts as Nil and gets filled by the Optimizer. * It's used as an optimization for omitting data generation that will * be discarded next by a projection. * A common use case is when we explode(array(..)) and are interested * only in the exploded data and not in the original array. before this * optimization the array got duplicated for each of its elements, * causing O(n^^2) memory consumption. (see [SPARK-21657])" />
-      <item value="Creates a new row for each element in the given array or map column" />
-      <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty." />
-      <item value="Union can only be performed on tables with the compatible column types" />
-      <item value="projections" />
-      <item value="a number of projections" />
-      <item value="Apply a number of projections to every input row, hence we will get multiple output rows for * an input row." />
-      <item value="drop Duplicates" />
-      <item value="A logical plan for `dropDuplicates`" />
-      <item value="A relation with one row. This is used in &quot;SELECT ...&quot; without a from clause." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="564" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="6" />
         <entry key="NORWEGIAN" value="1" />
