@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register hooks, which are called before the process exits" />
+      <item value="init remoting server" />
+      <item value="replace placeholder" />
       <item value="SHELL process pid" />
       <item value="taskPriorityInfo convert taskPriority" />
       <item value="process Instance Priority" />
@@ -48,14 +51,11 @@
       <item value="prepare process parameter" />
       <item value="check to see if it's done" />
       <item value="sub process complement data" />
-      <item value="complement" />
-      <item value="execute complement process" />
-      <item value="generate process dag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="669" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
