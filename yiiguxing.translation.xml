@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="taskPriorityInfo convert taskPriority" />
+      <item value="process Instance Priority" />
+      <item value="task Instance Priority" />
       <item value="SQL Task ExecutionContext" />
       <item value="SQL Task Execution Context" />
       <item value="process Id" />
@@ -48,14 +51,11 @@
       <item value="execute complement process" />
       <item value="generate process dag" />
       <item value="the task can be submit when all the depends nodes are forbidden or complete" />
-      <item value="master exec thread,split dag" />
-      <item value="parse the forbidden task nodes in process definition." />
-      <item value="get Forbidden Task Node Maps" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
