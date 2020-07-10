@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SQL Task ExecutionContext" />
+      <item value="SQL Task Execution Context" />
+      <item value="process Id" />
+      <item value="master/worker task transport" />
+      <item value="cancel" />
       <item value="task timeout parameter" />
       <item value="Parameters" />
       <item value="Talk is cheap. Show me the code" />
@@ -46,16 +51,11 @@
       <item value="master exec thread,split dag" />
       <item value="parse the forbidden task nodes in process definition." />
       <item value="get Forbidden Task Node Maps" />
-      <item value="generate flow node relation list by task node list;" />
-      <item value="no special designation start nodes" />
-      <item value="dest" />
-      <item value="dest Task Node List" />
-      <item value="dep Node Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="655" />
-        <entry key="ENGLISH" value="656" />
+        <entry key="CHINESE" value="660" />
+        <entry key="ENGLISH" value="661" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
