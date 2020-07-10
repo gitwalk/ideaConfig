@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="task timeout parameter" />
+      <item value="Parameters" />
       <item value="Talk is cheap. Show me the code" />
       <item value="custom global params" />
       <item value="check the process definition node meets the specifications" />
@@ -49,13 +51,11 @@
       <item value="dest" />
       <item value="dest Task Node List" />
       <item value="dep Node Type" />
-      <item value="start Node Name List" />
-      <item value="process Definition Json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="653" />
-        <entry key="ENGLISH" value="654" />
+        <entry key="CHINESE" value="655" />
+        <entry key="ENGLISH" value="656" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
