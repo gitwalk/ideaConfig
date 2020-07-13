@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern=".vm" type="JavaScript" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
     </extensionMap>
