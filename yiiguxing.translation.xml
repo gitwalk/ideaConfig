@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instantiate Statement" />
+      <item value="process Generated Keys" />
+      <item value="handle Multiple Properties" />
+      <item value="check for nested result maps in parameter mappings" />
+      <item value="Prepared Statement Handler" />
+      <item value="Callable Statement Handler" />
       <item value="register hooks, which are called before the process exits" />
       <item value="init remoting server" />
       <item value="replace placeholder" />
@@ -45,17 +51,11 @@
       <item value="node monitor thread complete" />
       <item value="send warning email if process time out." />
       <item value="submit and watch the tasks, until the work flow stop" />
-      <item value="find Valid Task List By Process Id" />
-      <item value="init task queue" />
-      <item value="is Task Complete" />
-      <item value="prepare process parameter" />
-      <item value="check to see if it's done" />
-      <item value="sub process complement data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="669" />
+        <entry key="CHINESE" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
