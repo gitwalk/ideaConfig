@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send Packet" />
+      <item value="Added to allow batch-updates" />
       <item value="instantiate Statement" />
       <item value="process Generated Keys" />
       <item value="handle Multiple Properties" />
@@ -49,13 +51,11 @@
       <item value="NEED FAULT TOLERANCE" />
       <item value="recover Tolerance Fault Task List" />
       <item value="node monitor thread complete" />
-      <item value="send warning email if process time out." />
-      <item value="submit and watch the tasks, until the work flow stop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="674" />
-        <entry key="ENGLISH" value="675" />
+        <entry key="CHINESE" value="676" />
+        <entry key="ENGLISH" value="677" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
