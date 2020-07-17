@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception In Initializer Error" />
       <item value="query data from odps" />
       <item value="exists in the dynamicQueryByExample2 statement" />
       <item value="include the following code in the same place where" />
@@ -50,12 +51,11 @@
       <item value="find Process Instance By Id" />
       <item value="updateProcessInstance process instance state * after each batch of tasks is executed, the status of the process instance is updated" />
       <item value="update Process Instance State" />
-      <item value="can Submit Task To Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="685" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
