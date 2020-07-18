@@ -1,63 +1,69 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="* Applies a [[Generator]] to a stream of input rows, combining the * output of each into a new stream of rows. This operation is similar to a `flatMap` in functional * programming with one important additional feature, which allows the input rows to be joined with * their output." />
-      <item value="this parameter starts as Nil and gets filled by the Optimizer. * It's used as an optimization for omitting data generation that will * be discarded next by a projection. * A common use case is when we explode(array(..)) and are interested * only in the exploded data and not in the original array. before this * optimization the array got duplicated for each of its elements, * causing O(n^^2) memory consumption. (see [SPARK-21657])" />
-      <item value="Creates a new row for each element in the given array or map column" />
-      <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty." />
-      <item value="Union can only be performed on tables with the compatible column types" />
-      <item value="projections" />
-      <item value="a number of projections" />
-      <item value="Apply a number of projections to every input row, hence we will get multiple output rows for * an input row." />
-      <item value="drop Duplicates" />
-      <item value="A logical plan for `dropDuplicates`" />
-      <item value="A relation with one row. This is used in &quot;SELECT ...&quot; without a from clause." />
-      <item value="Returns a new logical plan that dedups input rows." />
-      <item value="dedups" />
-      <item value="Sample" />
-      <item value="Sample the dataset" />
-      <item value="Aliased subquery" />
-      <item value="which" />
-      <item value="Expand" />
-      <item value="Factory for constructing new `Union` nodes." />
-      <item value="Set Operation" />
-      <item value="Append data to an existing table" />
-      <item value="Aggregate" />
-      <item value="Qualifier for the attributes of generator(UDTF)" />
-      <item value="when true, each input row will be output at least once, even if the output of the * given `generator` is empty" />
-      <item value="similar" />
-      <item value="Applies" />
-      <item value="This node is inserted at the top of a subquery when it is optimized. This makes sure we can * recognize a subquery as such, and it allows us to write subquery aware transformations." />
-      <item value="A class representing a Json {@code null} value. *" />
-      <item value="The output schema of the Generator" />
-      <item value="new" />
-      <item value="java" />
-      <item value="The SubqueryAlias node keeps track of the qualifier using the information in this structure" />
-      <item value="Model Constants" />
-      <item value="a" />
-      <item value="aggregate Expressions" />
-      <item value="type Hint Field Name" />
-      <item value="Aggregation" />
-      <item value="Projection" />
-      <item value="if the specified text is not valid JSON" />
-      <item value="this function creates tables in a way that is hive dependent, therefore hive must be enabled for this to work" />
-      <item value="When harvest method is called with an empty data frame&quot; should &quot;return a data lineage with one node." />
-      <item value="request Compression Supported" />
-      <item value="attribute Converter" />
-      <item value="create Operation Builders Recursively" />
-      <item value="This is implemented as an" />
-      <item value="explicitly" />
-      <item value="Metrics" />
-      <item value="write Node Builder" />
-      <item value="executed Plan Opt" />
-      <item value="maybe Event Handler Constructor" />
+      <item value="exists in the dynamicQueryByExample2 statement" />
+      <item value="include the following code in the same place where" />
+      <item value="parameter" />
+      <item value="Is the server in a sql_mode that doesn't allow us to use \\ to escape * things?" />
+      <item value="Is this query a LOAD DATA query" />
+      <item value="Set a parameter to a Java String value. The driver converts this to a SQL * VARCHAR or LONGVARCHAR value (depending on the arguments size relative to * the driver's limits on VARCHARs) when it sends it to the database." />
+      <item value="send Packet" />
+      <item value="Added to allow batch-updates" />
+      <item value="instantiate Statement" />
+      <item value="process Generated Keys" />
+      <item value="handle Multiple Properties" />
+      <item value="check for nested result maps in parameter mappings" />
+      <item value="Prepared Statement Handler" />
+      <item value="Callable Statement Handler" />
+      <item value="register hooks, which are called before the process exits" />
+      <item value="init remoting server" />
+      <item value="replace placeholder" />
+      <item value="SHELL process pid" />
+      <item value="taskPriorityInfo convert taskPriority" />
+      <item value="process Instance Priority" />
+      <item value="task Instance Priority" />
+      <item value="SQL Task ExecutionContext" />
+      <item value="SQL Task Execution Context" />
+      <item value="process Id" />
+      <item value="master/worker task transport" />
+      <item value="cancel" />
+      <item value="task timeout parameter" />
+      <item value="Parameters" />
+      <item value="Talk is cheap. Show me the code" />
+      <item value="custom global params" />
+      <item value="check the process definition node meets the specifications" />
+      <item value="connects for nodes" />
+      <item value="locations for nodes" />
+      <item value="execute process instance" />
+      <item value="do action to process instance" />
+      <item value="do action to process instance：pause, stop, repeat, recover from pause, recover from stop" />
+      <item value="submit Stand By Task" />
+      <item value="Stand" />
+      <item value="whether the retry interval is timed out" />
+      <item value="handling the list of tasks to be submitted" />
+      <item value="add Task To Stand By List" />
+      <item value="Master Base Task Exec Thread" />
+      <item value="if the running task is not completed, the state remains unchanged" />
+      <item value="active task and retry task exists" />
+      <item value="after each batch of tasks is executed, the status of the process instance is updated" />
+      <item value="find Process Instance By Id" />
+      <item value="updateProcessInstance process instance state * after each batch of tasks is executed, the status of the process instance is updated" />
+      <item value="update Process Instance State" />
+      <item value="can Submit Task To Queue" />
+      <item value="updateProcessInstance completed task status // failure priority is higher than pause // if a task fails, other suspended tasks need to be reset kill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="683" />
+        <entry key="DANISH" value="2" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="2" />
+        <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="6" />
+        <entry key="KURDISH" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>

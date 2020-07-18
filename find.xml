@@ -17,8 +17,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.avsc</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.scala</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
