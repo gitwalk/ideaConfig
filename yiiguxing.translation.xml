@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="image Matting Quality" />
+      <item value="image Matting" />
+      <item value="image Erase Watermark" />
       <item value="Summarize" />
       <item value="Video Summarize Data Handler" />
       <item value="grant Table Privilege" />
@@ -48,14 +51,11 @@
       <item value="handling the list of tasks to be submitted" />
       <item value="add Task To Stand By List" />
       <item value="Master Base Task Exec Thread" />
-      <item value="if the running task is not completed, the state remains unchanged" />
-      <item value="active task and retry task exists" />
-      <item value="after each batch of tasks is executed, the status of the process instance is updated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="691" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
