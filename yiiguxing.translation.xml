@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NEVER" />
+      <item value="EXE NEVER CRON" />
       <item value="illegal" />
       <item value="image Matting Quality" />
       <item value="image Matting" />
@@ -49,13 +51,11 @@
       <item value="submit Stand By Task" />
       <item value="Stand" />
       <item value="whether the retry interval is timed out" />
-      <item value="handling the list of tasks to be submitted" />
-      <item value="add Task To Stand By List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="693" />
+        <entry key="ENGLISH" value="694" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
