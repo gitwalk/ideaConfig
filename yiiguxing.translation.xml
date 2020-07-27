@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NHCIL" />
       <item value="Parma" />
       <item value="factory" />
       <item value="subtask" />
@@ -50,7 +51,6 @@
       <item value="connects for nodes" />
       <item value="locations for nodes" />
       <item value="execute process instance" />
-      <item value="do action to process instance" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
