@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is no READABLE property named ' ' in class 'java.util.ArrayList'" />
       <item value="Validator" />
       <item value="NHCIL" />
       <item value="Parma" />
@@ -50,12 +51,11 @@
       <item value="custom global params" />
       <item value="check the process definition node meets the specifications" />
       <item value="connects for nodes" />
-      <item value="locations for nodes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="697" />
-        <entry key="ENGLISH" value="698" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
