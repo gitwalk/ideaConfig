@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sun Jan 01 00:00:00 CST 2023" />
+      <item value="Fri Jan 01 00:00:00 CST 2021" />
       <item value="There is no READABLE property named ' ' in class 'java.util.ArrayList'" />
       <item value="Validator" />
       <item value="NHCIL" />
@@ -49,13 +51,11 @@
       <item value="Parameters" />
       <item value="Talk is cheap. Show me the code" />
       <item value="custom global params" />
-      <item value="check the process definition node meets the specifications" />
-      <item value="connects for nodes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="698" />
-        <entry key="ENGLISH" value="699" />
+        <entry key="CHINESE" value="699" />
+        <entry key="ENGLISH" value="700" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -63,7 +63,7 @@
         <entry key="DUTCH" value="6" />
         <entry key="KURDISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
