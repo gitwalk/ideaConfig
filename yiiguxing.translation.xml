@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alibaba intl icrackerservice bundle war war exploded" />
       <item value="Sat Mar 11 00:00:00 CST 2023" />
       <item value="Fri Dec 02 00:00:00 CST 2022" />
       <item value="Sun Jan 01 00:00:00 CST 2023" />
@@ -50,7 +51,6 @@
       <item value="master/worker task transport" />
       <item value="cancel" />
       <item value="task timeout parameter" />
-      <item value="Parameters" />
     </histories>
     <option name="languageScores">
       <map>
