@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
       <item value="alibaba intl icrackerservice bundle war war exploded" />
       <item value="Sat Mar 11 00:00:00 CST 2023" />
       <item value="Fri Dec 02 00:00:00 CST 2022" />
@@ -50,12 +51,11 @@
       <item value="process Id" />
       <item value="master/worker task transport" />
       <item value="cancel" />
-      <item value="task timeout parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="700" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="702" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
