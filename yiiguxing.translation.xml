@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Escape" />
       <item value="recursion" />
       <item value="this open token is escaped. remove the backslash and continue" />
       <item value="Not a real Velocity implementation" />
@@ -50,12 +51,11 @@
       <item value="init remoting server" />
       <item value="replace placeholder" />
       <item value="SHELL process pid" />
-      <item value="taskPriorityInfo convert taskPriority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="709" />
+        <entry key="CHINESE" value="709" />
+        <entry key="ENGLISH" value="710" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
