@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wrapped" />
       <item value="Send with platform character encoding" />
       <item value="if" />
       <item value="escape characters interpreted as backslash by mysql" />
@@ -50,12 +51,11 @@
       <item value="instantiate Statement" />
       <item value="process Generated Keys" />
       <item value="handle Multiple Properties" />
-      <item value="check for nested result maps in parameter mappings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="CHINESE" value="716" />
+        <entry key="ENGLISH" value="717" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
