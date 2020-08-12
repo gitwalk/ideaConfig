@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Send with platform character encoding" />
+      <item value="if" />
+      <item value="escape characters interpreted as backslash by mysql" />
+      <item value="Internal" />
+      <item value="scape characters interpreted as backslash by mysql" />
+      <item value="Better safe than sorry" />
       <item value="Escape" />
       <item value="recursion" />
       <item value="this open token is escaped. remove the backslash and continue" />
@@ -45,17 +51,11 @@
       <item value="process Generated Keys" />
       <item value="handle Multiple Properties" />
       <item value="check for nested result maps in parameter mappings" />
-      <item value="Prepared Statement Handler" />
-      <item value="Callable Statement Handler" />
-      <item value="register hooks, which are called before the process exits" />
-      <item value="init remoting server" />
-      <item value="replace placeholder" />
-      <item value="SHELL process pid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="716" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
