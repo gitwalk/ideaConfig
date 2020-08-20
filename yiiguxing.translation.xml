@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Takes care of the fact that Sun changed the output of * BigDecimal.toString() between JDK-1.4 and JDK 5" />
+      <item value="Adds '+' to decimal numbers that are positive" />
+      <item value="Internal" />
       <item value="invoke" />
       <item value="Wrapped" />
       <item value="Send with platform character encoding" />
       <item value="if" />
       <item value="escape characters interpreted as backslash by mysql" />
-      <item value="Internal" />
       <item value="scape characters interpreted as backslash by mysql" />
       <item value="Better safe than sorry" />
       <item value="Escape" />
@@ -49,13 +51,11 @@
       <item value="Set a parameter to a Java String value. The driver converts this to a SQL * VARCHAR or LONGVARCHAR value (depending on the arguments size relative to * the driver's limits on VARCHARs) when it sends it to the database." />
       <item value="send Packet" />
       <item value="Added to allow batch-updates" />
-      <item value="instantiate Statement" />
-      <item value="process Generated Keys" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="717" />
-        <entry key="ENGLISH" value="718" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="721" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
