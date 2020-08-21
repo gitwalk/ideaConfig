@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suitable" />
       <item value="Strategy" />
       <item value="s not a valid numeric or approximate numeric value" />
       <item value="original" />
@@ -50,12 +51,11 @@
       <item value="query data from odps" />
       <item value="exists in the dynamicQueryByExample2 statement" />
       <item value="include the following code in the same place where" />
-      <item value="parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="725" />
+        <entry key="ENGLISH" value="726" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
