@@ -18,7 +18,7 @@
     <mask>*.mxml</mask>
     <mask>*.avsc</mask>
     <mask>*.scala</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
