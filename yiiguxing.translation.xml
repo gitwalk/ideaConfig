@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bridging" />
+      <item value="delegate" />
       <item value="** * Timeout in nanoseconds for idle threads waiting for work. * Threads use this timeout when there are more than corePoolSize * present or if allowCoreThreadTimeOut. Otherwise they wait * forever for new work." />
       <item value="Are workers subject to culling" />
       <item value="subject" />
@@ -49,13 +51,11 @@
       <item value="subtask" />
       <item value="parse Data" />
       <item value="NEVER" />
-      <item value="EXE NEVER CRON" />
-      <item value="illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
-        <entry key="ENGLISH" value="736" />
+        <entry key="CHINESE" value="737" />
+        <entry key="ENGLISH" value="738" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />

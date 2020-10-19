@@ -2,7 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".vm" type="JavaScript" />
-      <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <removed_mapping pattern="TestSqlTemplate.xml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
       <removed_mapping pattern="SqlTemplateTest" approved="true" type="XML" />
