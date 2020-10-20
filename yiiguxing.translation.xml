@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delegate" />
+      <item value="advance" />
+      <item value="Bucket" />
+      <item value="Coercer" />
+      <item value="Coercion" />
+      <item value="Cursor" />
       <item value="if this connector does not support reading tables record at a time" />
       <item value="if this connector does not support reading tables page at a time" />
       <item value="transaction" />
       <item value="Bridging" />
-      <item value="delegate" />
       <item value="** * Timeout in nanoseconds for idle threads waiting for work. * Threads use this timeout when there are more than corePoolSize * present or if allowCoreThreadTimeOut. Otherwise they wait * forever for new work." />
       <item value="Are workers subject to culling" />
       <item value="subject" />
@@ -46,16 +51,11 @@
       <item value="Fri Dec 02 00:00:00 CST 2022" />
       <item value="Sun Jan 01 00:00:00 CST 2023" />
       <item value="Fri Jan 01 00:00:00 CST 2021" />
-      <item value="There is no READABLE property named ' ' in class 'java.util.ArrayList'" />
-      <item value="Validator" />
-      <item value="NHCIL" />
-      <item value="Parma" />
-      <item value="factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="741" />
+        <entry key="CHINESE" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
