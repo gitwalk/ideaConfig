@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scan Filter And Project Operator" />
+      <item value="Benchmark" />
+      <item value="Abstract template for benchmarks that want to test the performance of an Operator" />
       <item value="If there is only one operator, finish it // Some operators (LookupJoinOperator and HashBuildOperator) are broken and requires finish to be called continuously // TODO remove the second part of the if statement, when these operators are fixed // Note: finish should not be called on the natural source of the pipeline as this could cause the task to finish early" />
       <item value="execution Planner" />
       <item value="get Stage Execution Descriptor" />
@@ -48,14 +51,11 @@
       <item value="update transaction ID if necessary" />
       <item value="queued" />
       <item value="protocol" />
-      <item value="update catalog and schema if present" />
-      <item value="process Internal" />
-      <item value="read Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="820" />
+        <entry key="CHINESE" value="822" />
+        <entry key="ENGLISH" value="823" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
