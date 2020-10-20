@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Override the default error strategy to not attempt inserting or deleting a token" />
+      <item value="get Prepared Statement From Execute" />
+      <item value="prepare query" />
+      <item value="activate Transaction" />
+      <item value="create Dispatch Query" />
+      <item value="prepare Query" />
+      <item value="create Query Internal" />
+      <item value="x Forwarded Proto" />
+      <item value="get Initial Query Results" />
+      <item value="In Memory Record Set" />
+      <item value="create Orc Decompressor" />
       <item value="parse Prepared Statements Headers" />
       <item value="Identity" />
       <item value="get Transaction Id" />
@@ -20,7 +31,6 @@
       <item value="invoke Parser" />
       <item value="prepared Statements" />
       <item value="Queued Statement Resource" />
-      <item value="get Initial Query Results" />
       <item value="start Internal Query" />
       <item value="render Output" />
       <item value="update transaction ID if necessary" />
@@ -41,21 +51,11 @@
       <item value="hive File Context" />
       <item value="encryption Information" />
       <item value="domain Predicate" />
-      <item value="prefilled Values" />
-      <item value="user-friendly representation of the expression similar to original SQL" />
-      <item value="A set of services/utilities that are helpful for connectors to operate on row expressions" />
-      <item value="get Domain Translator" />
-      <item value="comment" />
-      <item value="effective Predicate" />
-      <item value="assure the page is in memory before handing to another operator" />
-      <item value="regular" />
-      <item value="will be present if the partition has a different schema (column type, column name) for the column" />
-      <item value="If coercion does not affect bucket number calculation, coercion doesn't need to be applied here. // Otherwise, read of this partition should not be allowed. // (Alternatively, the partition could be read as an unbucketed partition. This is not implemented.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="796" />
-        <entry key="ENGLISH" value="797" />
+        <entry key="CHINESE" value="807" />
+        <entry key="ENGLISH" value="808" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
