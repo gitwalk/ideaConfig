@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get an output page from current operator" />
+      <item value="if the current operator is not finished and next operator isn't blocked and needs input." />
       <item value="bind" />
       <item value="task execution" />
       <item value="the driver can be GCed due to a failure or a limit" />
@@ -49,13 +51,11 @@
       <item value="Coercion" />
       <item value="Cursor" />
       <item value="if this connector does not support reading tables record at a time" />
-      <item value="if this connector does not support reading tables page at a time" />
-      <item value="transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="788" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
