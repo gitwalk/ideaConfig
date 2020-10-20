@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="first, try parsing with potentially faster SLL mode" />
+      <item value="invoke Parser" />
+      <item value="prepared Statements" />
+      <item value="parse Prepared Statements Headers" />
+      <item value="Queued Statement Resource" />
+      <item value="get Initial Query Results" />
+      <item value="start Internal Query" />
+      <item value="render Output" />
       <item value="update transaction ID if necessary" />
       <item value="queued" />
       <item value="protocol" />
@@ -43,19 +51,11 @@
       <item value="Are workers subject to culling" />
       <item value="subject" />
       <item value="culling" />
-      <item value="handle secure connection if specified" />
-      <item value="create Binary Transport" />
-      <item value="Always throws RejectedExecutionException" />
-      <item value="If we cannot queue task, then we try to add a new * thread. If it fails, we know we are shut down or saturated * and so reject the task." />
-      <item value="If a task can be successfully queued, then we still need * to double-check whether we should have added a thread * (because existing ones died since last checking) or that * the pool shut down since entry into this method. So we * recheck state and if necessary roll back the enqueuing if * stopped, or start a new thread if there are none." />
-      <item value="If fewer than corePoolSize threads are running, try to * start a new thread with the given command as its first * task. The call to addWorker atomically checks runState and * workerCount, and so prevents false alarms that would add * threads when it shouldn't, by returning false." />
-      <item value="suitable" />
-      <item value="Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="CHINESE" value="781" />
+        <entry key="ENGLISH" value="782" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
