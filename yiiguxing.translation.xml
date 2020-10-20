@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If there is only one operator, finish it // Some operators (LookupJoinOperator and HashBuildOperator) are broken and requires finish to be called continuously // TODO remove the second part of the if statement, when these operators are fixed // Note: finish should not be called on the natural source of the pipeline as this could cause the task to finish early" />
+      <item value="execution Planner" />
+      <item value="get Stage Execution Descriptor" />
+      <item value="request Memory Revoking" />
+      <item value="Semi Transactional Hive Metastore" />
+      <item value="begin Statistics Collection" />
+      <item value="Start a SELECT/UPDATE/INSERT/DELETE query. This notification is triggered after the planning phase completes." />
+      <item value="plan distribution of query" />
+      <item value="transition" />
+      <item value="make sure we produce a valid plan after optimizations run. This is mainly to catch programming errors" />
+      <item value="validate Intermediate Plan" />
+      <item value="query Explainer" />
       <item value="Override the default error strategy to not attempt inserting or deleting a token" />
       <item value="get Prepared Statement From Execute" />
       <item value="prepare query" />
@@ -39,23 +51,11 @@
       <item value="update catalog and schema if present" />
       <item value="process Internal" />
       <item value="read Internal" />
-      <item value="raptor" />
-      <item value="Parquet" />
-      <item value="prepare" />
-      <item value="PREFILLED" />
-      <item value="Aggregate" />
-      <item value="Footer" />
-      <item value="grant" />
-      <item value="SchedulingLifespanManager tracks how far each Lifespan has been scheduled. Here is an example. // Let's say there are 4 source pipelines/nodes: A, B, C, and D, in scheduling order. // And we're processing 3 concurrent lifespans at a time. In this case, we could have // // * Lifespan 10: A B [C] D; i.e. Pipeline A and B has finished scheduling (but not necessarily finished running). // * Lifespan 20: [A] B C D // * Lifespan 30: A [B] C D" />
-      <item value="For each driver in a task, it belong to a pipeline and a driver life cycle. // Pipeline and driver life cycle are two perpendicular organizations of tasks" />
-      <item value="hive File Context" />
-      <item value="encryption Information" />
-      <item value="domain Predicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="807" />
-        <entry key="ENGLISH" value="808" />
+        <entry key="CHINESE" value="819" />
+        <entry key="ENGLISH" value="820" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
