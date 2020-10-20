@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aggregate" />
+      <item value="Footer" />
+      <item value="grant" />
+      <item value="SchedulingLifespanManager tracks how far each Lifespan has been scheduled. Here is an example. // Let's say there are 4 source pipelines/nodes: A, B, C, and D, in scheduling order. // And we're processing 3 concurrent lifespans at a time. In this case, we could have // // * Lifespan 10: A B [C] D; i.e. Pipeline A and B has finished scheduling (but not necessarily finished running). // * Lifespan 20: [A] B C D // * Lifespan 30: A [B] C D" />
+      <item value="For each driver in a task, it belong to a pipeline and a driver life cycle. // Pipeline and driver life cycle are two perpendicular organizations of tasks" />
+      <item value="hive File Context" />
+      <item value="encryption Information" />
+      <item value="domain Predicate" />
+      <item value="prefilled Values" />
+      <item value="user-friendly representation of the expression similar to original SQL" />
+      <item value="A set of services/utilities that are helpful for connectors to operate on row expressions" />
+      <item value="get Domain Translator" />
+      <item value="comment" />
+      <item value="effective Predicate" />
       <item value="assure the page is in memory before handing to another operator" />
       <item value="regular" />
       <item value="will be present if the partition has a different schema (column type, column name) for the column" />
@@ -37,25 +51,11 @@
       <item value="invoke" />
       <item value="Wrapped" />
       <item value="Send with platform character encoding" />
-      <item value="if" />
-      <item value="escape characters interpreted as backslash by mysql" />
-      <item value="scape characters interpreted as backslash by mysql" />
-      <item value="Better safe than sorry" />
-      <item value="Escape" />
-      <item value="recursion" />
-      <item value="this open token is escaped. remove the backslash and continue" />
-      <item value="Not a real Velocity implementation" />
-      <item value="should Demonstrate Multipart Expected Text With No Loops Or Conditionals" />
-      <item value="credential" />
-      <item value="prepare catalina out" />
-      <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
-      <item value="At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
-      <item value="alibaba intl icrackerservice bundle war war exploded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="751" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="765" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
