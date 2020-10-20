@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse Prepared Statements Headers" />
+      <item value="Identity" />
+      <item value="get Transaction Id" />
+      <item value="prepare Request" />
+      <item value="PRESTO CLIENT TAGS" />
+      <item value="PRESTO DEALLOCATED PREPARE" />
+      <item value="started Transaction Id" />
+      <item value="request" />
       <item value="get an output page from current operator" />
       <item value="if the current operator is not finished and next operator isn't blocked and needs input." />
       <item value="bind" />
@@ -11,7 +19,6 @@
       <item value="first, try parsing with potentially faster SLL mode" />
       <item value="invoke Parser" />
       <item value="prepared Statements" />
-      <item value="parse Prepared Statements Headers" />
       <item value="Queued Statement Resource" />
       <item value="get Initial Query Results" />
       <item value="start Internal Query" />
@@ -44,18 +51,11 @@
       <item value="regular" />
       <item value="will be present if the partition has a different schema (column type, column name) for the column" />
       <item value="If coercion does not affect bucket number calculation, coercion doesn't need to be applied here. // Otherwise, read of this partition should not be allowed. // (Alternatively, the partition could be read as an unbucketed partition. This is not implemented.)" />
-      <item value="delegate" />
-      <item value="advance" />
-      <item value="Bucket" />
-      <item value="Coercer" />
-      <item value="Coercion" />
-      <item value="Cursor" />
-      <item value="if this connector does not support reading tables record at a time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="789" />
-        <entry key="ENGLISH" value="790" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="797" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -65,7 +65,7 @@
         <entry key="LATIN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
