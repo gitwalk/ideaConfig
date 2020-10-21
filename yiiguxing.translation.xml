@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="task Info Fetcher" />
+      <item value="task Status Fetcher" />
+      <item value="Fetch the results from the buffer assigned to the task based on id" />
+      <item value="invocation" />
+      <item value="stage Execution And Scheduler" />
       <item value="when Split Queue Has Space" />
       <item value="The output buffer depends on the task id starting from 0 and being sequential, since each // task is assigned a private buffer based on task id." />
       <item value="The assumption that `noMoreSplitsNotification.size() &lt;= 1` currently holds. // If this assumption no longer holds, we should consider calling task.noMoreSplits with multiple entries in one shot. // These kind of methods can be expensive since they are grabbing locks and/or sending HTTP requests on change." />
@@ -46,16 +51,11 @@
       <item value="request Memory Revoking" />
       <item value="Semi Transactional Hive Metastore" />
       <item value="begin Statistics Collection" />
-      <item value="Start a SELECT/UPDATE/INSERT/DELETE query. This notification is triggered after the planning phase completes." />
-      <item value="plan distribution of query" />
-      <item value="transition" />
-      <item value="make sure we produce a valid plan after optimizations run. This is mainly to catch programming errors" />
-      <item value="validate Intermediate Plan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="858" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="864" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
