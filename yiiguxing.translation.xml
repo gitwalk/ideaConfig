@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="With usejavacp=true, the Scala interpreter looks for jars under System Classpath. But it // doesn't look for jars added to MutableURLClassLoader. Thus extra jars are not visible to // the interpreter. SparkContext can use them via JVM ClassLoaders but users cannot import // them using Scala import statement." />
+      <item value="then &quot;import com.databricks.spark.csv._&quot; in the interpreter, it will throw an error." />
+      <item value="For instance: If we import a package using SparkConf:" />
       <item value="* Utility trait for classes that want to log data. Creates a SLF4J logger for the class and allows * logging messages at different levels using methods that only evaluate parameters lazily if the * log level is enabled." />
       <item value="SQL Interpreter" />
       <item value="Sets the Spark master URL to connect to, such as &quot;local&quot; to run locally, &quot;local[4]&quot; to * run locally with 4 cores, or &quot;spark://master:7077&quot; to run on a Spark standalone cluster." />
@@ -48,14 +51,11 @@
       <item value="direct Executor" />
       <item value="status" />
       <item value="acknowledge Task Results" />
-      <item value="task Info Fetcher" />
-      <item value="task Status Fetcher" />
-      <item value="Fetch the results from the buffer assigned to the task based on id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="913" />
+        <entry key="ENGLISH" value="914" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
