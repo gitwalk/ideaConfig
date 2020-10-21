@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate Cache Quota" />
+      <item value="coercers" />
+      <item value="prefilled Values" />
+      <item value="to Bucket Adaptation" />
+      <item value="prefilled" />
+      <item value="required Interim Columns" />
+      <item value="AGGREGATED" />
+      <item value="REGULAR" />
+      <item value="will be present if the partition has a different schema (column type, column name) for the column" />
       <item value="scheduled Nanos" />
       <item value="running Intermediate Splits" />
       <item value="enqueue Driver Split Runner" />
@@ -42,20 +51,11 @@
       <item value="Now we will fetch the layout handle if it's not presented in TableHandle. // In the future, ConnectorTableHandle will be used to fetch splits since it will contain layout information." />
       <item value="// acquire reference to scheduler before checking finalQueryInfo, because // state change listener sets finalQueryInfo and then clears scheduler when // the query finishes." />
       <item value="if query was canceled during scheduler creation, abort the scheduler // directly since the callback may have already fired" />
-      <item value="build the stage execution objects (this doesn't schedule execution)" />
-      <item value="if query was canceled, skip creating scheduler" />
-      <item value="ensure split sources are closed" />
-      <item value="This notification is triggered after the planning phase completes." />
-      <item value="explain Analyze" />
-      <item value="ragment the plan // the variableAllocator is finally passed to SqlQueryScheduler for runtime cost-based optimizations" />
-      <item value="extract output" />
-      <item value="transition To Dispatching" />
-      <item value="enqueue Query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="876" />
-        <entry key="ENGLISH" value="877" />
+        <entry key="CHINESE" value="885" />
+        <entry key="ENGLISH" value="886" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
