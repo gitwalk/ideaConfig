@@ -1,6 +1,35 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drop Listeners From When Finished Or New Lifespans Added" />
+      <item value="Schedules as much work as possible without blocking. * The schedule results is a hint to the query scheduler if and * when the stage scheduler should be invoked again. It is * important to note that this is only a hint and the query * scheduler may call the schedule method at any time." />
+      <item value="drain Completely Scheduled Lifespans" />
+      <item value="make sure to update stage linkage at least once per loop to catch async state changes (e.g., partial cancel)" />
+      <item value="modify parent and children based on the results of the scheduling" />
+      <item value="perform some scheduling work" />
+      <item value="Apply runtime CBO on the ready sections before creating SectionExecutions." />
+      <item value="when query is done or any time a stage completes, attempt to transition query to &quot;final query info ready&quot;" />
+      <item value="this is a separate method to ensure that the `this` reference is not leaked during construction" />
+      <item value="build the stage execution objects" />
+      <item value="create Initial Empty Output Buffers" />
+      <item value="Now we will fetch the layout handle if it's not presented in TableHandle. // In the future, ConnectorTableHandle will be used to fetch splits since it will contain layout information." />
+      <item value="// acquire reference to scheduler before checking finalQueryInfo, because // state change listener sets finalQueryInfo and then clears scheduler when // the query finishes." />
+      <item value="if query was canceled during scheduler creation, abort the scheduler // directly since the callback may have already fired" />
+      <item value="build the stage execution objects (this doesn't schedule execution)" />
+      <item value="if query was canceled, skip creating scheduler" />
+      <item value="ensure split sources are closed" />
+      <item value="This notification is triggered after the planning phase completes." />
+      <item value="explain Analyze" />
+      <item value="ragment the plan // the variableAllocator is finally passed to SqlQueryScheduler for runtime cost-based optimizations" />
+      <item value="extract output" />
+      <item value="transition To Dispatching" />
+      <item value="enqueue Query" />
+      <item value="start In Background" />
+      <item value="resource Group Manager" />
+      <item value="apply system default session properties (does not override user set properties)" />
+      <item value="select resource group" />
+      <item value="wait for query to be dispatched, up to the wait timeout" />
+      <item value="dispatch" />
       <item value="Scan Filter And Project Operator" />
       <item value="Benchmark" />
       <item value="Abstract template for benchmarks that want to test the performance of an Operator" />
@@ -22,40 +51,11 @@
       <item value="activate Transaction" />
       <item value="create Dispatch Query" />
       <item value="prepare Query" />
-      <item value="create Query Internal" />
-      <item value="x Forwarded Proto" />
-      <item value="get Initial Query Results" />
-      <item value="In Memory Record Set" />
-      <item value="create Orc Decompressor" />
-      <item value="parse Prepared Statements Headers" />
-      <item value="Identity" />
-      <item value="get Transaction Id" />
-      <item value="prepare Request" />
-      <item value="PRESTO CLIENT TAGS" />
-      <item value="PRESTO DEALLOCATED PREPARE" />
-      <item value="started Transaction Id" />
-      <item value="request" />
-      <item value="get an output page from current operator" />
-      <item value="if the current operator is not finished and next operator isn't blocked and needs input." />
-      <item value="bind" />
-      <item value="task execution" />
-      <item value="the driver can be GCed due to a failure or a limit" />
-      <item value="tell existing drivers about the new splits; it is safe to update drivers // multiple times and out of order because sources contain full record of // the unpartitioned splits" />
-      <item value="perpendicular" />
-      <item value="first, try parsing with potentially faster SLL mode" />
-      <item value="invoke Parser" />
-      <item value="prepared Statements" />
-      <item value="Queued Statement Resource" />
-      <item value="start Internal Query" />
-      <item value="render Output" />
-      <item value="update transaction ID if necessary" />
-      <item value="queued" />
-      <item value="protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="822" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
