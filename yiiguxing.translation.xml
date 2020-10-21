@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="when Split Queue Has Space" />
+      <item value="The output buffer depends on the task id starting from 0 and being sequential, since each // task is assigned a private buffer based on task id." />
+      <item value="The assumption that `noMoreSplitsNotification.size() &lt;= 1` currently holds. // If this assumption no longer holds, we should consider calling task.noMoreSplits with multiple entries in one shot. // These kind of methods can be expensive since they are grabbing locks and/or sending HTTP requests on change." />
+      <item value="assign the splits with successful placements" />
+      <item value="assign Splits" />
+      <item value="Add an empty split in case no splits have been produced for the source. // For source operators, they never take input, but they may produce output. // This is well handled by Presto execution engine. // However, there are certain non-source operators that may produce output without any input, // for example, 1) an AggregationOperator, 2) a HashAggregationOperator where one of the grouping sets is (). // Scheduling an empty split kicks off necessary driver instantiation to make this work." />
+      <item value="calculate placements for splits" />
       <item value="drop Listeners From When Finished Or New Lifespans Added" />
       <item value="Schedules as much work as possible without blocking. * The schedule results is a hint to the query scheduler if and * when the stage scheduler should be invoked again. It is * important to note that this is only a hint and the query * scheduler may call the schedule method at any time." />
       <item value="drain Completely Scheduled Lifespans" />
@@ -44,18 +51,11 @@
       <item value="transition" />
       <item value="make sure we produce a valid plan after optimizations run. This is mainly to catch programming errors" />
       <item value="validate Intermediate Plan" />
-      <item value="query Explainer" />
-      <item value="Override the default error strategy to not attempt inserting or deleting a token" />
-      <item value="get Prepared Statement From Execute" />
-      <item value="prepare query" />
-      <item value="activate Transaction" />
-      <item value="create Dispatch Query" />
-      <item value="prepare Query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="851" />
-        <entry key="ENGLISH" value="852" />
+        <entry key="CHINESE" value="858" />
+        <entry key="ENGLISH" value="859" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
