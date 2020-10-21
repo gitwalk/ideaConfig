@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sql Parser" />
+      <item value="Drive index lookup to produce the output (landing in indexSnapshotBuilder)" />
+      <item value="benchmark" />
+      <item value="constant Blocks" />
+      <item value="cursor" />
+      <item value="Selective" />
+      <item value="is Pushdown Filter Enabled" />
       <item value="columns that should show up in the output page, in this order" />
       <item value="if there is a value present, otherwise {@code false}." />
       <item value="is Present" />
@@ -44,18 +51,11 @@
       <item value="drop Listeners From When Finished Or New Lifespans Added" />
       <item value="Schedules as much work as possible without blocking. * The schedule results is a hint to the query scheduler if and * when the stage scheduler should be invoked again. It is * important to note that this is only a hint and the query * scheduler may call the schedule method at any time." />
       <item value="drain Completely Scheduled Lifespans" />
-      <item value="make sure to update stage linkage at least once per loop to catch async state changes (e.g., partial cancel)" />
-      <item value="modify parent and children based on the results of the scheduling" />
-      <item value="perform some scheduling work" />
-      <item value="Apply runtime CBO on the ready sections before creating SectionExecutions." />
-      <item value="when query is done or any time a stage completes, attempt to transition query to &quot;final query info ready&quot;" />
-      <item value="this is a separate method to ensure that the `this` reference is not leaked during construction" />
-      <item value="build the stage execution objects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="890" />
-        <entry key="ENGLISH" value="891" />
+        <entry key="CHINESE" value="898" />
+        <entry key="ENGLISH" value="899" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
