@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SQL Interpreter" />
       <item value="Sets the Spark master URL to connect to, such as &quot;local&quot; to run locally, &quot;local[4]&quot; to * run locally with 4 cores, or &quot;spark://master:7077&quot; to run on a Spark standalone cluster." />
       <item value="Jdbc Identity" />
       <item value="schedule Drivers For Driver Group Life Cycle" />
@@ -50,12 +51,11 @@
       <item value="task Status Fetcher" />
       <item value="Fetch the results from the buffer assigned to the task based on id" />
       <item value="invocation" />
-      <item value="stage Execution And Scheduler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="908" />
-        <entry key="ENGLISH" value="909" />
+        <entry key="CHINESE" value="909" />
+        <entry key="ENGLISH" value="910" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
