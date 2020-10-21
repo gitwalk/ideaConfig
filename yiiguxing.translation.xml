@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="schedule Drivers For Driver Group Life Cycle" />
+      <item value="driver Runner Factories With Split Life Cycle" />
+      <item value="Check Task Completion On Buffer Finish" />
+      <item value="Pre-register Lifespans for ungrouped partitioned drivers in case they end up get no splits." />
+      <item value="don't register the task if it is already completed (most likely failed during planning above)" />
+      <item value="build the stage execution objects (this doesn't schedule execution)" />
       <item value="forget about this query if the query manager is no longer tracking it" />
       <item value="snapshot the queries before checking states to avoid registration race" />
       <item value="Sql Parser" />
@@ -45,17 +51,11 @@
       <item value="stage Execution And Scheduler" />
       <item value="when Split Queue Has Space" />
       <item value="The output buffer depends on the task id starting from 0 and being sequential, since each // task is assigned a private buffer based on task id." />
-      <item value="The assumption that `noMoreSplitsNotification.size() &lt;= 1` currently holds. // If this assumption no longer holds, we should consider calling task.noMoreSplits with multiple entries in one shot. // These kind of methods can be expensive since they are grabbing locks and/or sending HTTP requests on change." />
-      <item value="assign the splits with successful placements" />
-      <item value="assign Splits" />
-      <item value="Add an empty split in case no splits have been produced for the source. // For source operators, they never take input, but they may produce output. // This is well handled by Presto execution engine. // However, there are certain non-source operators that may produce output without any input, // for example, 1) an AggregationOperator, 2) a HashAggregationOperator where one of the grouping sets is (). // Scheduling an empty split kicks off necessary driver instantiation to make this work." />
-      <item value="calculate placements for splits" />
-      <item value="drop Listeners From When Finished Or New Lifespans Added" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="900" />
-        <entry key="ENGLISH" value="901" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
