@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="columns that should show up in the output page, in this order" />
+      <item value="if there is a value present, otherwise {@code false}." />
+      <item value="is Present" />
+      <item value="get Layout" />
       <item value="generate Cache Quota" />
       <item value="coercers" />
       <item value="prefilled Values" />
@@ -47,15 +51,11 @@
       <item value="when query is done or any time a stage completes, attempt to transition query to &quot;final query info ready&quot;" />
       <item value="this is a separate method to ensure that the `this` reference is not leaked during construction" />
       <item value="build the stage execution objects" />
-      <item value="create Initial Empty Output Buffers" />
-      <item value="Now we will fetch the layout handle if it's not presented in TableHandle. // In the future, ConnectorTableHandle will be used to fetch splits since it will contain layout information." />
-      <item value="// acquire reference to scheduler before checking finalQueryInfo, because // state change listener sets finalQueryInfo and then clears scheduler when // the query finishes." />
-      <item value="if query was canceled during scheduler creation, abort the scheduler // directly since the callback may have already fired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="890" />
+        <entry key="ENGLISH" value="891" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
