@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scheduled Nanos" />
+      <item value="running Intermediate Splits" />
+      <item value="enqueue Driver Split Runner" />
+      <item value="exclusive Lock" />
+      <item value="assign" />
+      <item value="inline" />
+      <item value="create Remote Split For" />
+      <item value="abort Results" />
+      <item value="Internal Node" />
+      <item value="this should be merged into getTaskStatus once full thrift support is in-place for v1/task" />
+      <item value="CANCELLED/ABORTED/FAILED" />
+      <item value="PRESTO PAGES" />
+      <item value="direct Executor" />
+      <item value="status" />
+      <item value="acknowledge Task Results" />
       <item value="task Info Fetcher" />
       <item value="task Status Fetcher" />
       <item value="Fetch the results from the buffer assigned to the task based on id" />
@@ -36,26 +51,11 @@
       <item value="extract output" />
       <item value="transition To Dispatching" />
       <item value="enqueue Query" />
-      <item value="start In Background" />
-      <item value="resource Group Manager" />
-      <item value="apply system default session properties (does not override user set properties)" />
-      <item value="select resource group" />
-      <item value="wait for query to be dispatched, up to the wait timeout" />
-      <item value="dispatch" />
-      <item value="Scan Filter And Project Operator" />
-      <item value="Benchmark" />
-      <item value="Abstract template for benchmarks that want to test the performance of an Operator" />
-      <item value="If there is only one operator, finish it // Some operators (LookupJoinOperator and HashBuildOperator) are broken and requires finish to be called continuously // TODO remove the second part of the if statement, when these operators are fixed // Note: finish should not be called on the natural source of the pipeline as this could cause the task to finish early" />
-      <item value="execution Planner" />
-      <item value="get Stage Execution Descriptor" />
-      <item value="request Memory Revoking" />
-      <item value="Semi Transactional Hive Metastore" />
-      <item value="begin Statistics Collection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="863" />
-        <entry key="ENGLISH" value="864" />
+        <entry key="CHINESE" value="876" />
+        <entry key="ENGLISH" value="877" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -63,9 +63,10 @@
         <entry key="DUTCH" value="6" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="2" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
