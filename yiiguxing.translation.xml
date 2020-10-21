@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Jdbc Identity" />
       <item value="schedule Drivers For Driver Group Life Cycle" />
       <item value="driver Runner Factories With Split Life Cycle" />
       <item value="Check Task Completion On Buffer Finish" />
@@ -50,12 +51,11 @@
       <item value="invocation" />
       <item value="stage Execution And Scheduler" />
       <item value="when Split Queue Has Space" />
-      <item value="The output buffer depends on the task id starting from 0 and being sequential, since each // task is assigned a private buffer based on task id." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="906" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="CHINESE" value="907" />
+        <entry key="ENGLISH" value="908" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
