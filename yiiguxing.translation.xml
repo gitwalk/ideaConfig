@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verify that the table does not already exist // dumpTable is only used to check the conflict for non-temporary tables" />
       <item value="With usejavacp=true, the Scala interpreter looks for jars under System Classpath. But it // doesn't look for jars added to MutableURLClassLoader. Thus extra jars are not visible to // the interpreter. SparkContext can use them via JVM ClassLoaders but users cannot import // them using Scala import statement." />
       <item value="then &quot;import com.databricks.spark.csv._&quot; in the interpreter, it will throw an error." />
       <item value="For instance: If we import a package using SparkConf:" />
@@ -50,12 +51,11 @@
       <item value="PRESTO PAGES" />
       <item value="direct Executor" />
       <item value="status" />
-      <item value="acknowledge Task Results" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="913" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="CHINESE" value="914" />
+        <entry key="ENGLISH" value="915" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
