@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spark configuration used to register Spline listener for codeless init." />
       <item value="An example job where no explicit Spline code was used to initialize Spline. Only Spark configuration was used" />
       <item value="The class must have a constructor with a single parameter of type {org.apache.commons.configuration.Configuration}" />
       <item value="Required for {HttpLineageDispatcher}. Base URL of the Spline Producer REST API endpoint" />
@@ -50,12 +51,11 @@
       <item value="abort Results" />
       <item value="Internal Node" />
       <item value="this should be merged into getTaskStatus once full thrift support is in-place for v1/task" />
-      <item value="CANCELLED/ABORTED/FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="919" />
+        <entry key="ENGLISH" value="920" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
