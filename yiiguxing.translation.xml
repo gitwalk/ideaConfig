@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The class must have a constructor with a single parameter of type {org.apache.commons.configuration.Configuration}" />
+      <item value="Required for {HttpLineageDispatcher}. Base URL of the Spline Producer REST API endpoint" />
       <item value="Verify that the table does not already exist // dumpTable is only used to check the conflict for non-temporary tables" />
       <item value="With usejavacp=true, the Scala interpreter looks for jars under System Classpath. But it // doesn't look for jars added to MutableURLClassLoader. Thus extra jars are not visible to // the interpreter. SparkContext can use them via JVM ClassLoaders but users cannot import // them using Scala import statement." />
       <item value="then &quot;import com.databricks.spark.csv._&quot; in the interpreter, it will throw an error." />
@@ -49,13 +51,11 @@
       <item value="this should be merged into getTaskStatus once full thrift support is in-place for v1/task" />
       <item value="CANCELLED/ABORTED/FAILED" />
       <item value="PRESTO PAGES" />
-      <item value="direct Executor" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="916" />
+        <entry key="ENGLISH" value="917" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
