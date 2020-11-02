@@ -2,7 +2,6 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="generateWithIfTest" value="true" />
         <option name="mybatisGeneratorMapperSuffix" value="Dao" />
         <option name="userMacSet">
           <set>
