@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Private" />
       <item value="PREDICATE" />
       <item value="present" />
       <item value="Returns an unmodifiable view of the underlying map's key set" />
@@ -50,12 +51,11 @@
       <item value="enqueue Driver Split Runner" />
       <item value="exclusive Lock" />
       <item value="assign" />
-      <item value="inline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="924" />
-        <entry key="ENGLISH" value="925" />
+        <entry key="CHINESE" value="925" />
+        <entry key="ENGLISH" value="926" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
