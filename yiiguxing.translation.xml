@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generic Leaf" />
+      <item value="Generic" />
+      <item value="Untyped Expression" />
+      <item value="Defaults to the class name. * Note that we remove the &quot;Exec&quot; suffix for physical operators here" />
       <item value="Private" />
       <item value="PREDICATE" />
       <item value="present" />
@@ -47,15 +51,11 @@
       <item value="REGULAR" />
       <item value="will be present if the partition has a different schema (column type, column name) for the column" />
       <item value="scheduled Nanos" />
-      <item value="running Intermediate Splits" />
-      <item value="enqueue Driver Split Runner" />
-      <item value="exclusive Lock" />
-      <item value="assign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="925" />
-        <entry key="ENGLISH" value="926" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
