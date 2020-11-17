@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escape Name Pattern" />
       <item value="Return the metadata for the specified table handle" />
       <item value="Information Schema Metadata" />
       <item value="catalog Name" />
@@ -11,7 +12,6 @@
       <item value="catalog, schema and table names are reported by the remote database" />
       <item value="eventually add some notion of statistic reliability // Skipping for now as there hard to compute it properly and so far we do not have // usecase for that" />
       <item value="Estimate" />
-      <item value="escape Name Pattern" />
       <item value="extra Credentials" />
       <item value="identifier Quote" />
       <item value="Prepared Statement" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="948" />
+        <entry key="ENGLISH" value="949" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
