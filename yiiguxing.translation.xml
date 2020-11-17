@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identifier Quote" />
+      <item value="Prepared Statement" />
       <item value="with Required Subfields" />
       <item value="Pruning must preserve the type of the values and support unmodified access" />
       <item value="A logical plan node with single child" />
@@ -49,13 +51,11 @@
       <item value="prefilled Values" />
       <item value="to Bucket Adaptation" />
       <item value="prefilled" />
-      <item value="required Interim Columns" />
-      <item value="AGGREGATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="933" />
-        <entry key="ENGLISH" value="934" />
+        <entry key="CHINESE" value="935" />
+        <entry key="ENGLISH" value="936" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
