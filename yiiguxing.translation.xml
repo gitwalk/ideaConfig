@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with Required Subfields" />
+      <item value="Pruning must preserve the type of the values and support unmodified access" />
       <item value="A logical plan node with single child" />
       <item value="Generic Leaf" />
       <item value="Generic" />
@@ -49,13 +51,11 @@
       <item value="prefilled" />
       <item value="required Interim Columns" />
       <item value="AGGREGATED" />
-      <item value="REGULAR" />
-      <item value="will be present if the partition has a different schema (column type, column name) for the column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="931" />
-        <entry key="ENGLISH" value="932" />
+        <entry key="CHINESE" value="933" />
+        <entry key="ENGLISH" value="934" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
