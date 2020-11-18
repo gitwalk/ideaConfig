@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="Returns a table handle for the specified table name, or null if the connector does not contain the table." />
       <item value="we need to list catalogs instead of schemas" />
       <item value="primary key column name * being imported" />
@@ -50,12 +51,11 @@
       <item value="escape Name Pattern" />
       <item value="tuple Domain" />
       <item value="remote Schema Names" />
-      <item value="identifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1002" />
-        <entry key="ENGLISH" value="1003" />
+        <entry key="CHINESE" value="1003" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
