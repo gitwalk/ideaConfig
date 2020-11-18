@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preconditions" />
       <item value="escape Name Pattern" />
       <item value="Return the metadata for the specified table handle" />
       <item value="Information Schema Metadata" />
@@ -50,12 +51,11 @@
       <item value="Sql Parser" />
       <item value="Drive index lookup to produce the output (landing in indexSnapshotBuilder)" />
       <item value="benchmark" />
-      <item value="constant Blocks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="948" />
-        <entry key="ENGLISH" value="949" />
+        <entry key="CHINESE" value="949" />
+        <entry key="ENGLISH" value="950" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="3" />
