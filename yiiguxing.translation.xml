@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="primary key column name * being imported" />
       <item value="Represents a function that accepts two arguments and produces a result. * This is the two-arity specialization of {@link Function}." />
       <item value="Represents a function that accepts one argument and produces a result" />
       <item value="when true, return only indices for unique values; * when false, return indices regardless of whether unique or not" />
@@ -50,12 +51,11 @@
       <item value="identifier" />
       <item value="Matching" />
       <item value="Insensitive" />
-      <item value="check Argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="999" />
-        <entry key="ENGLISH" value="1000" />
+        <entry key="CHINESE" value="1000" />
+        <entry key="ENGLISH" value="1001" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
