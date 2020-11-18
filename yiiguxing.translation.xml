@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Represents a function that accepts two arguments and produces a result. * This is the two-arity specialization of {@link Function}." />
+      <item value="Represents a function that accepts one argument and produces a result" />
+      <item value="when true, return only indices for unique values; * when false, return indices regardless of whether unique or not" />
+      <item value="when true, result is allowed to reflect approximate * or out of data values; when false, results are requested to be * accurate" />
+      <item value="get Pseudo Columns" />
+      <item value="Retrieves a description of the given attribute of the given type * for a user-defined type (UDT) that is available in the given schema * and catalog." />
+      <item value="NON UNIQUE" />
+      <item value="Retrieves a description of the given table's indices and statistics. They are * ordered by NON_UNIQUE, TYPE, INDEX_NAME, and ORDINAL_POSITION" />
+      <item value="Retrieves a description of the foreign key columns in the given foreign key" />
+      <item value="Retrieves a description of the foreign key columns that reference" />
+      <item value="referenced by the given table's foreign key columns (the primary keys * imported by a table). They are ordered by PKTABLE_CAT, * PKTABLE_SCHEM, PKTABLE_NAME, and KEY_SEQ." />
+      <item value="Retrieves a description of the primary key columns that are" />
+      <item value="sequence number within primary key" />
+      <item value="For numeric data, this is the maximum precision. For character data, this is the length in characters." />
+      <item value="COLUMN_SIZE column specifies the column size for the given column." />
       <item value="Indicates whether this column is auto incremented" />
       <item value="source type of a distinct type or user-generated" />
       <item value="ISO rules are used to determine the nullability for a column" />
@@ -36,29 +51,14 @@
       <item value="Matching" />
       <item value="Insensitive" />
       <item value="check Argument" />
-      <item value="Preconditions" />
-      <item value="Return the metadata for the specified table handle" />
-      <item value="Information Schema Metadata" />
-      <item value="catalog Name" />
-      <item value="Qualified Table Prefix" />
-      <item value="calculate Prefixes With Table Name" />
-      <item value="HARD_AFFINITY: Split is NOT remotely accessible and has to be on specific nodes" />
-      <item value="Indicate the node affinity of a Split" />
-      <item value="catalog, schema and table names are reported by the remote database" />
-      <item value="eventually add some notion of statistic reliability // Skipping for now as there hard to compute it properly and so far we do not have // usecase for that" />
-      <item value="Estimate" />
-      <item value="extra Credentials" />
-      <item value="identifier Quote" />
-      <item value="Prepared Statement" />
-      <item value="with Required Subfields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="985" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="CHINESE" value="999" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="6" />
         <entry key="KURDISH" value="1" />
