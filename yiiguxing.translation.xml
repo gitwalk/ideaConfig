@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates whether this column is auto incremented" />
+      <item value="source type of a distinct type or user-generated" />
+      <item value="ISO rules are used to determine the nullability for a column" />
+      <item value="IS NULLABLE" />
+      <item value="ORDINAL POSITION" />
+      <item value="default value for the column, which should be interpreted as a string when the value is enclosed in single quotes" />
+      <item value="Radix" />
       <item value="Null is returned for data types where * DECIMAL_DIGITS is not applicable." />
       <item value="skip unsupported column types" />
       <item value="In rare cases (e.g. PostgreSQL) a table might have no columns" />
@@ -13,9 +20,7 @@
       <item value="particular" />
       <item value="The COLUMN_SIZE column specifies the column size for the given column" />
       <item value="Indicates whether this is a generated column" />
-      <item value="Indicates whether this column is auto incremented" />
       <item value="catalog of table that is the scope * of a reference attribute" />
-      <item value="ISO rules are used to determine the nullability for a column" />
       <item value="CHAR OCTET LENGTH" />
       <item value="COLUMN DEF" />
       <item value="UDT the type name is fully qualified" />
@@ -46,16 +51,11 @@
       <item value="identifier Quote" />
       <item value="Prepared Statement" />
       <item value="with Required Subfields" />
-      <item value="Pruning must preserve the type of the values and support unmodified access" />
-      <item value="A logical plan node with single child" />
-      <item value="Generic Leaf" />
-      <item value="Generic" />
-      <item value="Untyped Expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="978" />
-        <entry key="ENGLISH" value="979" />
+        <entry key="CHINESE" value="985" />
+        <entry key="ENGLISH" value="986" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
