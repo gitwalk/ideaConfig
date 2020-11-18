@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="skip internal schemas" />
       <item value="a list of table types, which must be from the list of table types * returned from {@link #getTableTypes},to include;" />
       <item value="REF GENERATION" />
       <item value="escape Name Pattern" />
@@ -50,12 +51,11 @@
       <item value="Jdbc Identity" />
       <item value="schedule Drivers For Driver Group Life Cycle" />
       <item value="driver Runner Factories With Split Life Cycle" />
-      <item value="Check Task Completion On Buffer Finish" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
