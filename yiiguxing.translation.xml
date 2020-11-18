@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a list of table types, which must be from the list of table types * returned from {@link #getTableTypes},to include;" />
+      <item value="REF GENERATION" />
+      <item value="escape Name Pattern" />
+      <item value="tuple Domain" />
+      <item value="remote Schema Names" />
+      <item value="identifier" />
+      <item value="Matching" />
+      <item value="Insensitive" />
       <item value="check Argument" />
       <item value="Preconditions" />
-      <item value="escape Name Pattern" />
       <item value="Return the metadata for the specified table handle" />
       <item value="Information Schema Metadata" />
       <item value="catalog Name" />
@@ -44,21 +51,14 @@
       <item value="schedule Drivers For Driver Group Life Cycle" />
       <item value="driver Runner Factories With Split Life Cycle" />
       <item value="Check Task Completion On Buffer Finish" />
-      <item value="Pre-register Lifespans for ungrouped partitioned drivers in case they end up get no splits." />
-      <item value="don't register the task if it is already completed (most likely failed during planning above)" />
-      <item value="build the stage execution objects (this doesn't schedule execution)" />
-      <item value="forget about this query if the query manager is no longer tracking it" />
-      <item value="snapshot the queries before checking states to avoid registration race" />
-      <item value="Sql Parser" />
-      <item value="Drive index lookup to produce the output (landing in indexSnapshotBuilder)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="950" />
-        <entry key="ENGLISH" value="951" />
+        <entry key="CHINESE" value="957" />
+        <entry key="ENGLISH" value="958" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="6" />
         <entry key="KURDISH" value="1" />
