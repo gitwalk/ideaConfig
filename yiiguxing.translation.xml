@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="explanatory comment on the table" />
+      <item value="IS GRANTABLE" />
+      <item value="PRIVILEGE" />
+      <item value="What's the url for this database" />
+      <item value="type Name Pattern" />
+      <item value="particular" />
+      <item value="The COLUMN_SIZE column specifies the column size for the given column" />
+      <item value="Indicates whether this is a generated column" />
+      <item value="Indicates whether this column is auto incremented" />
+      <item value="catalog of table that is the scope * of a reference attribute" />
+      <item value="ISO rules are used to determine the nullability for a column" />
+      <item value="CHAR OCTET LENGTH" />
+      <item value="COLUMN DEF" />
+      <item value="UDT the type name is fully qualified" />
+      <item value="DECIMAL DIGITS" />
+      <item value="get Table Privileges" />
       <item value="skip internal schemas" />
       <item value="a list of table types, which must be from the list of table types * returned from {@link #getTableTypes},to include;" />
       <item value="REF GENERATION" />
@@ -35,27 +51,11 @@
       <item value="Private" />
       <item value="PREDICATE" />
       <item value="present" />
-      <item value="Returns an unmodifiable view of the underlying map's key set" />
-      <item value="cardinality" />
-      <item value="Spark configuration used to register Spline listener for codeless init." />
-      <item value="An example job where no explicit Spline code was used to initialize Spline. Only Spark configuration was used" />
-      <item value="The class must have a constructor with a single parameter of type {org.apache.commons.configuration.Configuration}" />
-      <item value="Required for {HttpLineageDispatcher}. Base URL of the Spline Producer REST API endpoint" />
-      <item value="Verify that the table does not already exist // dumpTable is only used to check the conflict for non-temporary tables" />
-      <item value="With usejavacp=true, the Scala interpreter looks for jars under System Classpath. But it // doesn't look for jars added to MutableURLClassLoader. Thus extra jars are not visible to // the interpreter. SparkContext can use them via JVM ClassLoaders but users cannot import // them using Scala import statement." />
-      <item value="then &quot;import com.databricks.spark.csv._&quot; in the interpreter, it will throw an error." />
-      <item value="For instance: If we import a package using SparkConf:" />
-      <item value="* Utility trait for classes that want to log data. Creates a SLF4J logger for the class and allows * logging messages at different levels using methods that only evaluate parameters lazily if the * log level is enabled." />
-      <item value="SQL Interpreter" />
-      <item value="Sets the Spark master URL to connect to, such as &quot;local&quot; to run locally, &quot;local[4]&quot; to * run locally with 4 cores, or &quot;spark://master:7077&quot; to run on a Spark standalone cluster." />
-      <item value="Jdbc Identity" />
-      <item value="schedule Drivers For Driver Group Life Cycle" />
-      <item value="driver Runner Factories With Split Life Cycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
-        <entry key="ENGLISH" value="959" />
+        <entry key="CHINESE" value="974" />
+        <entry key="ENGLISH" value="975" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="4" />
