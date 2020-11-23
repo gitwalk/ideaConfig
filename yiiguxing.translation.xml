@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SQL statements without parameters are normally" />
+      <item value="get Describe Output Column Info List" />
+      <item value="This method cannot be called on PreparedStatement" />
+      <item value="advance Next Position" />
+      <item value="Jdbc Record Cursor" />
       <item value="Deprecated" />
       <item value="Returns a table handle for the specified table name, or null if the connector does not contain the table." />
       <item value="we need to list catalogs instead of schemas" />
@@ -30,7 +35,6 @@
       <item value="Null is returned for data types where * DECIMAL_DIGITS is not applicable." />
       <item value="skip unsupported column types" />
       <item value="In rare cases (e.g. PostgreSQL) a table might have no columns" />
-      <item value="Jdbc Record Cursor" />
       <item value="explanatory comment on the table" />
       <item value="IS GRANTABLE" />
       <item value="PRIVILEGE" />
@@ -47,15 +51,11 @@
       <item value="get Table Privileges" />
       <item value="skip internal schemas" />
       <item value="a list of table types, which must be from the list of table types * returned from {@link #getTableTypes},to include;" />
-      <item value="REF GENERATION" />
-      <item value="escape Name Pattern" />
-      <item value="tuple Domain" />
-      <item value="remote Schema Names" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1003" />
-        <entry key="ENGLISH" value="1004" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
