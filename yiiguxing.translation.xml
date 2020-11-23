@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ensures that an object reference passed as a parameter to the calling method is not null" />
+      <item value="check Argument" />
       <item value="SQL statements without parameters are normally" />
       <item value="get Describe Output Column Info List" />
       <item value="This method cannot be called on PreparedStatement" />
@@ -49,13 +51,11 @@
       <item value="UDT the type name is fully qualified" />
       <item value="DECIMAL DIGITS" />
       <item value="get Table Privileges" />
-      <item value="skip internal schemas" />
-      <item value="a list of table types, which must be from the list of table types * returned from {@link #getTableTypes},to include;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
-        <entry key="ENGLISH" value="1009" />
+        <entry key="CHINESE" value="1010" />
+        <entry key="ENGLISH" value="1011" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
