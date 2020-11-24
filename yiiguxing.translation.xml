@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accumulator" />
       <item value="Date" />
       <item value="Ensures that an object reference passed as a parameter to the calling method is not null" />
       <item value="check Argument" />
@@ -50,12 +51,11 @@
       <item value="CHAR OCTET LENGTH" />
       <item value="COLUMN DEF" />
       <item value="UDT the type name is fully qualified" />
-      <item value="DECIMAL DIGITS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1011" />
-        <entry key="ENGLISH" value="1012" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1013" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
