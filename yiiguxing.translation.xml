@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exits" />
+      <item value="TIMESTAMP WITH TIMEZONE" />
+      <item value="TIME WITH TIMEZONE" />
+      <item value="BLOB" />
+      <item value="BINARY" />
+      <item value="SMALLINT" />
+      <item value="BIT" />
+      <item value="DECIMAL" />
+      <item value="The constant in the Java programming language, sometimes referred * to as a type code, that identifies the generic SQL type" />
+      <item value="REAL" />
       <item value="accumulator" />
       <item value="Date" />
       <item value="Ensures that an object reference passed as a parameter to the calling method is not null" />
@@ -41,21 +51,11 @@
       <item value="In rare cases (e.g. PostgreSQL) a table might have no columns" />
       <item value="explanatory comment on the table" />
       <item value="IS GRANTABLE" />
-      <item value="PRIVILEGE" />
-      <item value="What's the url for this database" />
-      <item value="type Name Pattern" />
-      <item value="particular" />
-      <item value="The COLUMN_SIZE column specifies the column size for the given column" />
-      <item value="Indicates whether this is a generated column" />
-      <item value="catalog of table that is the scope * of a reference attribute" />
-      <item value="CHAR OCTET LENGTH" />
-      <item value="COLUMN DEF" />
-      <item value="UDT the type name is fully qualified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1012" />
-        <entry key="ENGLISH" value="1013" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
