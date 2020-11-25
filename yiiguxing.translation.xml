@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieves the URL for this DBMS." />
       <item value="convert" />
       <item value="exits" />
       <item value="TIMESTAMP WITH TIMEZONE" />
@@ -50,12 +51,11 @@
       <item value="Null is returned for data types where * DECIMAL_DIGITS is not applicable." />
       <item value="skip unsupported column types" />
       <item value="In rare cases (e.g. PostgreSQL) a table might have no columns" />
-      <item value="explanatory comment on the table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1024" />
-        <entry key="ENGLISH" value="1025" />
+        <entry key="CHINESE" value="1025" />
+        <entry key="ENGLISH" value="1026" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
