@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update" />
+      <item value="shortage" />
       <item value="Found multiple occurrences of org.json.JSONObject on the class path" />
       <item value="INSTANCE" />
       <item value="Retrieves the URL for this DBMS." />
@@ -49,13 +51,11 @@
       <item value="IS NULLABLE" />
       <item value="ORDINAL POSITION" />
       <item value="default value for the column, which should be interpreted as a string when the value is enclosed in single quotes" />
-      <item value="Radix" />
-      <item value="Null is returned for data types where * DECIMAL_DIGITS is not applicable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1027" />
-        <entry key="ENGLISH" value="1028" />
+        <entry key="CHINESE" value="1029" />
+        <entry key="ENGLISH" value="1030" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
