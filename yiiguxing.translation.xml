@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retry Driver" />
+      <item value="Exception" />
+      <item value="Mock" />
       <item value="TEMPORARY TABLE" />
       <item value="VIRTUAL VIEW" />
       <item value="EXTERNAL TABLE" />
@@ -48,14 +51,11 @@
       <item value="Represents a function that accepts two arguments and produces a result. * This is the two-arity specialization of {@link Function}." />
       <item value="Represents a function that accepts one argument and produces a result" />
       <item value="when true, return only indices for unique values; * when false, return indices regardless of whether unique or not" />
-      <item value="when true, result is allowed to reflect approximate * or out of data values; when false, results are requested to be * accurate" />
-      <item value="get Pseudo Columns" />
-      <item value="Retrieves a description of the given attribute of the given type * for a user-defined type (UDT) that is available in the given schema * and catalog." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1046" />
-        <entry key="ENGLISH" value="1047" />
+        <entry key="CHINESE" value="1049" />
+        <entry key="ENGLISH" value="1050" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
