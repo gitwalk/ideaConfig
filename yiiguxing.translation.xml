@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TEMPORARY TABLE" />
+      <item value="VIRTUAL VIEW" />
+      <item value="EXTERNAL TABLE" />
+      <item value="MANAGED TABLE" />
+      <item value="identity" />
+      <item value="set Exclusive" />
+      <item value="SHARED OPERATION BUFFERED" />
+      <item value="check Readable" />
+      <item value="delegate" />
+      <item value="Metastore" />
       <item value="Transactional" />
       <item value="Catalog" />
       <item value="equals" />
@@ -41,21 +51,11 @@
       <item value="when true, result is allowed to reflect approximate * or out of data values; when false, results are requested to be * accurate" />
       <item value="get Pseudo Columns" />
       <item value="Retrieves a description of the given attribute of the given type * for a user-defined type (UDT) that is available in the given schema * and catalog." />
-      <item value="NON UNIQUE" />
-      <item value="Retrieves a description of the given table's indices and statistics. They are * ordered by NON_UNIQUE, TYPE, INDEX_NAME, and ORDINAL_POSITION" />
-      <item value="Retrieves a description of the foreign key columns in the given foreign key" />
-      <item value="Retrieves a description of the foreign key columns that reference" />
-      <item value="referenced by the given table's foreign key columns (the primary keys * imported by a table). They are ordered by PKTABLE_CAT, * PKTABLE_SCHEM, PKTABLE_NAME, and KEY_SEQ." />
-      <item value="Retrieves a description of the primary key columns that are" />
-      <item value="sequence number within primary key" />
-      <item value="For numeric data, this is the maximum precision. For character data, this is the length in characters." />
-      <item value="COLUMN_SIZE column specifies the column size for the given column." />
-      <item value="Indicates whether this column is auto incremented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1036" />
-        <entry key="ENGLISH" value="1037" />
+        <entry key="CHINESE" value="1046" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
