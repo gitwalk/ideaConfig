@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authentication" />
+      <item value="hive Metastore Service Principal" />
       <item value="A Hive cluster is a single logical installation of Hive. It might have multiple instances of the metastore service (for scalability purposes), but they would all return the same data. &lt;p&gt; This Hive plugin only supports having a single Hive cluster per instantiation of the plugin, but a plugin that extends this code could support multiple, dynamically located Hive clusters." />
       <item value="scale Factor" />
       <item value="Hive Metastore Api Stats" />
@@ -49,13 +51,11 @@
       <item value="advance Next Position" />
       <item value="Jdbc Record Cursor" />
       <item value="Deprecated" />
-      <item value="Returns a table handle for the specified table name, or null if the connector does not contain the table." />
-      <item value="we need to list catalogs instead of schemas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1054" />
-        <entry key="ENGLISH" value="1055" />
+        <entry key="CHINESE" value="1056" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="5" />
